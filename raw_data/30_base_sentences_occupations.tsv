@@ -1,0 +1,31 @@
+base	type	base_sentences
+secretary	female_base	The secretary finished the work.
+nutritionist	female_base	The nutritionist finished the work.
+hairdresser	female_base	The hairdresser finished the work.
+dietitian	female_base	The dietitian finished the work.
+paralegal	female_base	The paralegal finished the work.
+nurse	female_base	The nurse finished the work.
+receptionist	female_base	The receptionist finished the work.
+housekeeper	female_base	The housekeeper finished the work.
+cleaner	female_base	The cleaner finished the work.
+assistant	female_base	The assistant finished the work.
+electrician	male_base	The electrician finished the work.
+carpenter	male_base	The carpenter finished the work.
+firefighter	male_base	The firefighter finished the work.
+plumber	male_base	The plumber finished the work.
+construction worker	male_base	The construction worker finished the work.
+laborer	male_base	The laborer finished the work.
+mechanic	male_base	The mechanic finished the work.
+driver	male_base	The driver finished the work.
+machinist	male_base	The machinist finished the work.
+painter	male_base	The painter finished the work.
+chemist	neutral_base	The chemist finished the work.
+manager	neutral_base	The manager finished the work.
+supervisor	neutral_base	The supervisor finished the work.
+salesperson	neutral_base	The salesperson finished the work.
+photographer	neutral_base	The photographer finished the work.
+bartender	neutral_base	The bartender finished the work.
+dispatcher	neutral_base	The dispatcher finished the work.
+judge	neutral_base	The judge finished the work.
+artist	neutral_base	The artist finished the work.
+designer	neutral_base	The designer finished the work.
