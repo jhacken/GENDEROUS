@@ -1,0 +1,31 @@
+base	base_type	sentences	type	ES_GPT-4o_v1	ES_GPT-4o_v2	ES_GPT-4o_v3	ES_GPT-4o_v4
+secretary	female_base	The secretary finished the work.	their	El secretario terminó el trabajo.	La secretaria terminó el trabajo.		
+nutritionist	female_base	The nutritionist finished the work.	their	La nutricionista terminó el trabajo.	El nutricionista terminó el trabajo.		
+hairdresser	female_base	The hairdresser finished the work.	their	La peluquera terminó el trabajo.	El peluquero terminó el trabajo.		
+dietitian	female_base	The dietitian finished the work.	their	El dietista terminó el trabajo.	La dietista terminó el trabajo.		
+paralegal	female_base	The paralegal finished the work.	their	La asistente legal terminó el trabajo.	El asistente legal terminó el trabajo.		
+nurse	female_base	The nurse finished the work.	their	La enfermera terminó el trabajo.	El enfermero terminó el trabajo.		
+receptionist	female_base	The receptionist finished the work.	their	La recepcionista terminó el trabajo.	El recepcionista terminó el trabajo.		
+housekeeper	female_base	The housekeeper finished the work.	their	La ama de llaves terminó el trabajo.	El amo de llaves terminó el trabajo.		
+cleaner	female_base	The cleaner finished the work.	their	El limpiador terminó el trabajo.	La limpiadora terminó el trabajo.		
+assistant	female_base	The assistant finished the work.	their	El asistente terminó el trabajo.	La asistente terminó el trabajo.		
+electrician	male_base	The electrician finished the work.	their	El electricista terminó el trabajo.	La electricista terminó el trabajo.	La persona electricista terminó el trabajo.	El o la electricista terminó el trabajo.
+carpenter	male_base	The carpenter finished the work.	their	El carpintero terminó el trabajo.	La carpintera terminó el trabajo.		
+firefighter	male_base	The firefighter finished the work.	their	El bombero terminó el trabajo.	La bombera terminó el trabajo.		
+plumber	male_base	The plumber finished the work.	their	El fontanero terminó el trabajo.	La fontanera terminó el trabajo.	El plomero terminó el trabajo.	La plomera terminó el trabajo.
+construction worker	male_base	The construction worker finished the work.	their	El trabajador de la construcción terminó el trabajo.	La trabajadora de la construcción terminó el trabajo.	La persona trabajadora de la construcción terminó el trabajo.	El/la trabajador/a de la construcción terminó el trabajo.
+laborer	male_base	The laborer finished the work.	their	El obrero terminó el trabajo.	La obrera terminó el trabajo.		
+mechanic	male_base	The mechanic finished the work.	their	El mecánico terminó el trabajo.	La mecánica terminó el trabajo.		
+driver	male_base	The driver finished the work.	their	El conductor terminó el trabajo.	La conductora terminó el trabajo.		
+machinist	male_base	The machinist finished the work.	their	El maquinista terminó el trabajo.	La maquinista terminó el trabajo.		
+painter	male_base	The painter finished the work.	their	El pintor terminó el trabajo.	La pintora terminó el trabajo.	El/la pintor/a terminó el trabajo.	Le pinotre terminó el trabajo.
+chemist	neutral_base	The chemist finished the work.	their	El químico terminó el trabajo.	La química terminó el trabajo.		
+manager	neutral_base	The manager finished the work.	their	El gerente terminó el trabajo.	La gerente terminó el trabajo.	Le gerente terminó el trabajo.	
+supervisor	neutral_base	The supervisor finished the work.	their	El supervisor terminó el trabajo.	La supervisora terminó el trabajo. 	Le supervise terminó el trabajo.	
+salesperson	neutral_base	The salesperson finished the work.	their	El vendedor terminó el trabajo.	La vendedora terminó el trabajo.	La persona vendedora terminó el trabajo.	La persona que vende terminó el trabajo.
+photographer	neutral_base	The photographer finished the work.	their	El fotógrafo terminó el trabajo.	La fotógrafa terminó el trabajo.		
+bartender	neutral_base	The bartender finished the work.	their	El barman terminó el trabajo.	El bartender terminó el trabajo.	La barwoman terminó el trabajo.	La bartender terminó el trabajo.
+dispatcher	neutral_base	The dispatcher finished the work.	their	El despachador terminó el trabajo.	La despachadora terminó el trabajo.	Le despachadore terminó el trabajo.	La persona encargada de despachar terminó el trabajo. 
+judge	neutral_base	The judge finished the work.	their	El juez terminó el trabajo.	La jueza terminó el trabajo.		
+artist	neutral_base	The artist finished the work.	their	El artista terminó la obra.	La artista terminó la obra.	El artista terminó el trabajo.	La artista terminó el trabajo.
+designer	neutral_base	The designer finished the work.	their	El diseñador terminó el trabajo.	La diseñadora terminó el trabajo.	Le diseñadore terminó el trabajo.	
