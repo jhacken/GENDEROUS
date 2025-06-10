@@ -1,0 +1,737 @@
+adj5_sentences	type_base	type_adj	EL_EuroLLM	EL_annotation	EL_GPT_annotation	EL_IAA_agreement	DE_EuroLLM	DE_annotation	DE_GPT_annotation	DE_IAA_agreement	ES_EuroLLM	ES_annotation	ES_GPT_annotation	ES_IAA_agreement	NL_EuroLLM	NL_annotation	NL_GPT_annotation	NL_IAA_agreement
+The retiring secretary finished the work.	female base	female adj	Ο υπάλληλος, ο οποίος θα σταματήσει την εργασία του, ολοκλήρω	error [incorrect]	M	0	Die scheidende Sekretärin hat den Job beendet.	F	F	1	El secretario jubilado terminó el trabajo.	M	M	1	De aftredende secretaris heeft het werk afgerond.	N	M	0
+The pleasant secretary finished the work.	female base	female adj	Η ευγενική γραμματέας τελείωσε τη δουλειά.	F	F	1	Die angenehme Sekretärin beendete die Arbeiten.	F	F	1	El agradable secretario terminó el trabajo.	M	M	1	De aardige secretaresse had het werk af.	F	F	1
+The affectionate secretary finished the work.	female base	female adj	Η στοργική γραμματέας τελείωσε τη δουλειά.	F	F	1	Die liebevolle Sekretärin beendete die Arbeit.	F	F	1	La afectuosa secretaria terminó el trabajo.	F	F	1	De hartelijke secretaris heeft het werk afgemaakt.	N	M	0
+The gentle secretary finished the work.	female base	female adj	Η ευγενική γραμματέας τελείωσε τη δουλειά.	F	F	1	Die sanfte Sekretärin beendete die Arbeit.	F	F	1	La amable secretaria terminó el trabajo.	F	F	1	De vriendelijke secretaresse had het werk af.	F	F	1
+The shy secretary finished the work.	female base	female adj	Η ντροπαλή γραμματέας τελείωσε τη δουλειά.	F	F	1	Die schüchterne Sekretärin beendete die Arbeit.	F	F	1	El tímido secretario terminó el trabajo.	M	M	1	De verlegen secretaris heeft haar werk gedaan.	error [incorrect]	M	0
+The strong secretary finished the work.	female base	male adj	Η δυνατή γραμματέας τελείωσε τη δουλειά.	F	M	0	Den starken Sekretär hat das Werk fertiggestellt.	error [incorrect]	M	0	El fuerte(signatario) terminó el trabajo.	error [incorrect]	M	0	De sterke secretaresse voltooide het werk.	F	F	1
+The serious secretary finished the work.	female base	male adj	Ο σοβαρός γραμματέας τελείωσε τη δουλειά.	M	F	0	Die ernsthafte Sekretärin beendete die Arbeit.	F	F	1	La seria secretaría terminó el trabajo.	error [incorrect]	error	0	De serieuze secretaris heeft het werk afgemaakt.	N	M	0
+The frank secretary finished the work.	female base	male adj	Η ειλικρινής γραμματέας ολοκλήρωσε τη δουλειά.	F	M	0	Die direkte Sekretärin beendete die Arbeit.	F	F	1	La franca secretaria terminó el trabajo.	F	F	1	De gedreven secretaresse heeft het werk afgerond.	F	F	1
+The stable secretary finished the work.	female base	male adj	Ο γραμματέας του αγροκτήματος τελείωσε τη δουλειά.	error [incorrect]	F	0	Der stabile Sekretär hat die Arbeit beendet.	M	M	1	La secretaria constante terminó el trabajo.	F	F	1	De stabiele secretaris heeft het werk afgerond.	N	M	0
+The independent secretary finished the work.	female base	male adj	Η ανεξάρτητη γραμματέας τελείωσε τη δουλειά.	F	F	1	Der unabhängige Sekretär hat die Arbeit beendet.	M	M	1	El secretario independiente terminó el trabajo.	M	M	1	De onafhankelijke secretaris heeft het werk afgerond.	N	M	0
+The dull secretary finished the work.	female base	neutral adj	Η νωθρή γραμματέας τελείωσε τη δουλειά της.	F	M	0	Die langweilige Sekretärin hat die Arbeit beendet.	F	F	1	La seca secretaria terminó el trabajo.	F	F	1	De saaie secretaris is klaar met het werk.	N	M	0
+The artificial secretary finished the work.	female base	neutral adj	Ο τεχνητός γραμματέας τελείωσε τη δουλειά.	M	F	0	Die künstliche Sekretärin hat die Arbeit beendet.	F	F	1	La secretaria artificial terminó el trabajo.	F	F	1	De kunstmatige secretaresse had het werk af.	F	F	1
+The intelligent secretary finished the work.	female base	neutral adj	Η έξυπνη γραμματέας τελείωσε τη δουλειά.	F	F	1	Die intelligente Sekretärin erledigte die Arbeit.	F	F	1	La inteligente secretaria terminó el trabajo.	F	F	1	De intelligente secretaris maakte het werk af.	N	M	0
+The assured secretary finished the work.	female base	neutral adj	Η καθησυχασμένη γραμματέας ολοκλήρωσε τις εργασίες.	F	F	1	Die zuverlässige Sekretärin beendete ihre Arbeit.	F	F	1	La secretaria segura terminó el trabajo.	F	F	1	De verzekerde secretaresse had het werk voltooid.	F	F	1
+The clever secretary finished the work.	female base	neutral adj	Η έξυπνη γραμματέας τελείωσε τη δουλειά.	F	M	0	Der kluge Sekretär beendete die Arbeit.	M	M	1	La inteligente secretaria terminó el trabajo.	F	F	1	De slimme secretaris maakte het werk af.	N	M	0
+The retiring nutritionist finished the work.	female base	female adj	Ο αναχωρών διαιτολόγος τελείωσε τη δουλειά.	F	F	1	Die pensionierte Ernährungsberaterin beendete die Arbeit.	F	F	1	El nutricionista que se va a retirar terminó el trabajo.	M	M	1	De voedingsdeskundige die gaat stoppen, heeft zijn werk afgerond.	error [incorrect]	M	0
+The pleasant nutritionist finished the work.	female base	female adj	Η καλή διατροφολόγος τελείωσε τη δουλειά.	F	M	0	Die angenehme Ernährungswissenschaftlerin beendete die Arbeit.	F	F	1	La agradable nutricionista terminó el trabajo.	F	F	1	De vriendelijke diëtist had het werk afgerond.	N	M	0
+The affectionate nutritionist finished the work.	female base	female adj	Ο αφοσιωμένος διατροφολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Die liebevolle Ernährungsberaterin beendete die Arbeit.	F	F	1	La cariñosa nutricionista terminó su trabajo.	F	F	1	De beminnelijke voedingsdeskundige is klaar met het werk.	N	M	0
+The gentle nutritionist finished the work.	female base	female adj	Ο διακριτικός διατροφολόγος ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Die freundliche Ernährungsberaterin beendete die Arbeit.	F	F	1	El nutricionista amable terminó el trabajo.	M	M	1	De rustige voedingsdeskundige heeft haar werk afgerond.	error [incorrect]	F	0
+The shy nutritionist finished the work.	female base	female adj	Ο ντροπαλός διατροφολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Die schüchterne Ernährungsberaterin hat die Arbeit beendet.	F	F	1	El nutricionista tímido terminó el trabajo.	M	M	1	De verlegen voedingsdeskundige had het werk af.	N	F	0
+The strong nutritionist finished the work.	female base	male adj	Ο ισχυρός διατροφολόγος ολοκλήρωσε την εργασία.	M	M	1	The strong nutritionist completed the work.	error [incorrect]	error	0	La nutricionista de gran experiencia culminó el trabajo.	error [incorrect]	F	0	De goede voedingsdeskundige voltooide het werk.	N	M	0
+The serious nutritionist finished the work.	female base	male adj	Ο σοβαρός διατροφολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Der ernste Ernährungsberater hat die Arbeit beendet.	M	M	1	La nutricionista seria termino el trabajo.	F	F	1	De strenge voedingsdeskundige heeft het werk afgerond.	N	M	0
+The frank nutritionist finished the work.	female base	male adj	Ο ειλικρινής διατροφολόγος τελείωσε τη δουλειά.	M	M	1	The direct translation of the given sentence into German is: Die offene Ernährungsberaterin be	error [incorrect]	error	0	El nutricionista honesto finalizó el trabajo.	M	M	1	De eerlijke voedingsdeskundige heeft het werk afgerond.	N	M	0
+The stable nutritionist finished the work.	female base	male adj	Ο σταθερός διατροφολόγος τελείωσε τη δουλειά.	M	M	1	Die verlässliche Ernährungsberaterin beendete ihre Arbeit.	F	F	1	El nutricionista estable terminó el trabajo.	M	M	1	De vaste voedingsdeskundige heeft het werk afgemaakt.	N	M	0
+The independent nutritionist finished the work.	female base	male adj	Ο ανεξάρτητος διαιτολόγος ολοκλήρωσε το έργο.	M	M	1	Die unabhängige Ernährungswissenschaftlerin beendete die Arbeit.	F	F	1	La nutricionista independiente terminó el trabajo.	F	F	1	De onhankelijke diëtiste heeft het werk afgerond.	F	F	1
+The dull nutritionist finished the work.	female base	neutral adj	Ο μουτσο διαιτολόγος τελείωσε τη δουλειά.	error [incorrect]	M	0	The boring nutritionist has finished the work.	error [incorrect]	error	0	El aburrido nutricionista terminó el trabajo.	M	M	1	De saaie voedingsdeskundige heeft het werk afgerond.	N	M	0
+The artificial nutritionist finished the work.	female base	neutral adj	Ο τεχνητός διατροφολόγος τελείωσε τη δουλειά.	M	F	0	Der künstliche Ernährungsberater beendete die Arbeit.	M	M	1	La nutricionista artificial terminó el trabajo.	F	F	1	De kunstmatige diëtist heeft het werk beëindigd.	N	M	0
+The intelligent nutritionist finished the work.	female base	neutral adj	Ο έξυπνος διατροφολόγος τελείωσε τη δουλειά.	M	M	1	Der kluge Ernährungsberater hat die Arbeit erledigt.	M	M	1	La nutricionista inteligente finalizó el trabajo.	F	M	0	De slimme voedingsdeskundige heeft zijn werk afgemaakt.	error [incorrect]	M	0
+The assured nutritionist finished the work.	female base	neutral adj	Ο διαβεβαιωμένος διατροφολόγος ολοκλήρωσε το έργο.	M	M	1	Die versicherte Ernährungsberaterin beendete die Arbeit.	F	F	1	El nutricionista seguro terminó el trabajo.	M	M	1	De verzekerde voedingsdeskundige heeft het werk afgemaakt.	N	M	0
+The clever nutritionist finished the work.	female base	neutral adj	Η έξυπνη διαιτολόγος τελείωσε την εργασία.	F	F	1	Die kluge Ernährungsberaterin hat die Arbeit beendet.	F	F	1	El nutricionista inteligente terminó el trabajo.	M	M	1	De slimme voedingsdeskundige heeft het werk voltooid.	N	M	0
+The retiring hairdresser finished the work.	female base	female adj	Ο συνταξιούχος κομμωτής ολοκλήρωσε τη δουλειά.	M	M	1	Der scheidende Friseur beendete die Arbeit.	M	M	1	El peluquero que se retira terminó el trabajo.	M	M	1	De afscheidende kapper heeft het werk afgerond.	error [incorrect]	M	0
+The pleasant hairdresser finished the work.	female base	female adj	Ο ευχάριστος κομμωτής τελείωσε τη δουλειά.	M	M	1	Die nette Friseurin beendete die Arbeit.	F	F	1	El agradable peluquero terminó el trabajo.	M	M	1	De gezellige kapper heeft het werk voltooid.	N	M	0
+The affectionate hairdresser finished the work.	female base	female adj	Η τρυφερή κομμώτρια ολοκλήρωσε τη δουλειά της.	F	F	1	Die liebevolle Frisörin beendete die Arbeit.	F	F	1	El cariñoso peluquero terminó el trabajo.	M	M	1	De liefdevolle kapper had klaar met het werk.	error [incorrect]	M	0
+The gentle hairdresser finished the work.	female base	female adj	Ο φιλικός κομμωτής ολοκλήρωσε τη δουλειά.	M	M	1	Die sanfte Friseurin beendete die Arbeit.	F	F	1	El peluquero amable terminó el trabajo.	M	M	1	De milde kapper heeft het werk afgemaakt.	N	M	0
+The shy hairdresser finished the work.	female base	female adj	Ο ντροπαλός κομμωτής τελείωσε τη δουλειά.	M	M	1	Der schüchterne Friseur hat seine Arbeit beendet.	M	M	1	El tímido peluquero terminó el trabajo.	M	M	1	De verlegen kapper had het werk afgerond.	N	M	0
+The strong hairdresser finished the work.	female base	male adj	Ο δυνατός κομμωτής τελείωσε την δουλειά του.	M	M	1	The strong hairdresser has finished the work.	error [incorrect]	error	0	El peluquero fuerte terminó el trabajo.	M	M	1	De sterke kapper heeft het werk afgerond.	N	M	0
+The serious hairdresser finished the work.	female base	male adj	Ο σοβαρός κομμωτής τελείωσε τη δουλειά.	M	M	1	Der ernsthafte Friseur hat die Arbeit beendet.	M	M	1	El serio peluquero terminó su trabajo.	M	M	1	De serieuze kapper heeft de klus afgemaakt.	N	M	0
+The frank hairdresser finished the work.	female base	male adj	Ο ειλικρινής κομμωτής τελείωσε την εργασία.	M	M	1	Der ehrliche Friseur beendete die Arbeit.	M	M	1	El honesto peluquero terminó el trabajo.	M	M	1	De brutale kapper heeft het werk afgerond.	N	M	0
+The stable hairdresser finished the work.	female base	male adj	Τα σταθερά κομμωτήρια τελείωσαν τη δουλειά.	error [incorrect]	N	0	Der zuverlässige Friseur hat die Arbeit beendet.	M	M	1	El peluquero estable terminó el trabajo.	M	M	1	De vaste kapper maakte het werk af.	N	M	0
+The independent hairdresser finished the work.	female base	male adj	Ο ανεξάρτητος κομμωτής τελείωσε την εργασία του.	M	M	1	Der selbstständige Friseur hat die Arbeit beendet.	M	M	1	La peluquera independiente terminó el trabajo.	F	F	1	De baardschoonheidsspecialist heeft het werk afgelopen.	error [incorrect]	M	0
+The dull hairdresser finished the work.	female base	neutral adj	Ο βαρεμένος κουρέας τελείωσε τη δουλειά.	M	M	1	Der gelangweilte Friseur beendete die Arbeit.	M	M	1	El aburrido peluquero terminó el trabajo.	M	M	1	De saaie kapper had het werk af.	N	M	0
+The artificial hairdresser finished the work.	female base	neutral adj	Ο τεχνητός κομμωτής τελείωσε τη δουλειά.	M	M	1	Der künstliche Friseur schloss die Arbeit ab.	M	M	1	El peluquero artificial terminó el trabajo.	M	M	1	De nepkapper heeft het werk voltooid.	N	M	0
+The intelligent hairdresser finished the work.	female base	neutral adj	Ο έξυπνος κομμωτής τελείωσε την εργασία.	M	M	1	Der intelligente Friseur hat die Arbeit beendet.	M	M	1	El peluquero inteligente terminó el trabajo.	M	M	1	De slimme kapper had het werk afgerond.	N	M	0
+The assured hairdresser finished the work.	female base	neutral adj	Ο βεβαιωμένος κομμωτής ολοκλήρωσε τη δουλειά.	M	M	1	Der versicherte Friseur hat die Arbeit beendet.	M	F	0	El peluquero seguro terminó el trabajo.	M	M	1	De verzekerde kapper had het werk voltooid.	N	M	0
+The clever hairdresser finished the work.	female base	neutral adj	Ο έξυπνος κομμωτής ολοκλήρωσε τη δουλειά.	M	M	1	Der clevere Friseur hat die Arbeit beendet.	M	F	0	El astuto peluquero terminó el trabajo.	M	F	0	De slimme kapper had zijn werk afgemaakt.	error [incorrect]	M	0
+The retiring dietitian finished the work.	female base	female adj	Ο αποχωρών διατροφολόγος τελείωσε τη δουλειά.	M	F	0	Die pensionierte Ernährungsberaterin beendete die Arbeit.	F	F	1	La dietista que está renunciando terminó el trabajo.	F	M	0	De vertrekkende diëtist had het werk afgerond.	N	M/F	0
+The pleasant dietitian finished the work.	female base	female adj	Η ευχάριστη διαιτολόγος τελείωσε την εργασία της.	F	M	0	Die angenehmen Ernährungsberaterin beendete die Arbeit.	error [incorrect]	F	0	El simpático nutricionista terminó el trabajo.	M	F	0	De gezellige diëtist had haar werk gedaan.	error [incorrect]	F	0
+The affectionate dietitian finished the work.	female base	female adj	Ο στοργικός διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Die liebevolle Diätassistentin beendete die Arbeit.	F	F	1	La cariñosa dietista terminó el trabajo.	F	F	1	De liefdevolle diëtiste had het werk gedaan.	F	F	1
+The gentle dietitian finished the work.	female base	female adj	Ο ευγενικός διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Die sanfte Diätköchin beendete die Arbeit.	error [incorrect]	M	0	La dietista suave terminó el trabajo.	F	F	1	De vriendelijke diëtist had het werk af.	N	M/F	0
+The shy dietitian finished the work.	female base	female adj	Ο ντροπαλός διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Die schüchternen Ernährungsberater haben das Projekt beendet.	error [mixed]	M	0	La dietista tímida terminó el trabajo.	F	F	1	De verlegen voedingsdeskundige heeft het werk afgerond.	N	F	0
+The strong dietitian finished the work.	female base	male adj	Ο δυνατός διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Der starke Diätassistent hat die Arbeit erledigt.	M	F	0	La dietista fuerte terminó el trabajo.	F	M	0	De bekwame diëtist heeft het werk afgerond.	N	M	0
+The serious dietitian finished the work.	female base	male adj	Ο σοβαρός διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Die ernsthafte Ernährungsberaterin hat die Arbeit beendet.	F	F	1	El serio dietista terminó el trabajo.	M	F	0	De serieuze diëtiste heeft het werk voltooid.	F	F	1
+The frank dietitian finished the work.	female base	male adj	Ο ειλικρινής διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Die ehrliche Diätassistentin beendete die Arbeit.	F	F	1	La dietista honesta terminó el trabajo.	F	M	0	De openhartige diëtist heeft het werk voltooid.	N	M	0
+The stable dietitian finished the work.	female base	male adj	Ο διαιτολόγος έβαλε τέρμα στην εργασία.	M	M	1	Der festangestellte Ernährungsberater hat die Arbeit beendet.	M	M	1	El dietista estable terminó el trabajo.	M	M	1	De stabiele diëtist heeft het werk afgemaakt.	N	M	0
+The independent dietitian finished the work.	female base	male adj	Ο ανεξάρτητος διαιτολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Der unabhängige Ernährungsberater beendete die Arbeit.	M	M	1	La dietista independiente finalizó el trabajo.	F	F	1	De onafhankelijke diëtist heeft het werk voltooid.	N	M	0
+The dull dietitian finished the work.	female base	neutral adj	Ο ανιαρός διαιτολόγος τελείωσε τη δουλειά.	M	M	1	Der langweilige Diätassistent beendete die Arbeit.	M	F	0	El aburrido dietista acabó su trabajo.	M	M	1	De saaie diëtist heeft het werk afgemaakt.	N	M	0
+The artificial dietitian finished the work.	female base	neutral adj	Ο τεχνητός διατροφολόγος τελείωσε το έργο.	M	F	0	Der künstliche Ernährungsberater beendete die Arbeit.	M	F	0	La dietista artificial terminó el trabajo.	F	F	1	De kunstmatige diëtist had het werk af.	N	M	0
+The intelligent dietitian finished the work.	female base	neutral adj	Η έξυπνη διαιτολόγος τελείωσε τη δουλειά.	F	M	0	Die intelligente Diätassistentin beendete die Arbeit.	F	F	1	La dietista inteligente terminó el trabajo.	F	M	0	De slimme diëtist is klaar met zijn werk.	error [incorrect]	M	0
+The assured dietitian finished the work.	female base	neutral adj	Ο επιλεγμένος διαιτολόγος τελείωσε την εργασία.	M	M	1	Die gesicherte Ernährungsberaterin beendete die Arbeit.	F	F	1	El dietista confiable terminó el trabajo.	M	M	1	De verzekerde diëtist had het werk voltooid.	N	M	0
+The clever dietitian finished the work.	female base	neutral adj	Ο έξυπνος διαιτολόγος έχει τελειώσει τη δουλειά.	M	F	0	Die clevere Ernährungsberaterin beendete die Arbeit.	F	F	1	El sabio dietista terminó el trabajo.	M	F	0	De slimme diëtist heeft het werk afgerond.	N	M/F	0
+The retiring paralegal finished the work.	female base	female adj	Η αποχωρών βοηθός δικαστικού λειτουργού ολοκλήρωσε τη δουλειά.	F	F	1	Die berufsbeendende Rechtsgehilfin	error [incorrect]	F	0	La paralegal jubilada terminó el trabajo.	error [incorrect]	F	0	De aftredende juridisch medewerker had het werk volbracht.	N	F	0
+The pleasant paralegal finished the work.	female base	female adj	Η ευτυχισμένη σύμβουλος ολοκλήρωσε τη δουλειά.	M	M	1	Der angenehme Paralegal beendete die Arbeit.	error [incorrect]	M	0	La agradable asistente jurídica terminó el trabajo.	F	M	0	De aangename juridisch medewerker heeft haar werk voltooid.	error [incorrect]	F	0
+The affectionate paralegal finished the work.	female base	female adj	Ο στοργικός ασκούμενος δικηγόρος ολοκλήρωσε το έργο.	M	F	0	Die liebevolle Paralegal hat die Arbeit beendet.	error [incorrect]	M	0	El afectuoso asistente legal terminó el trabajo.	M	M	1	De lieve parajurist had het werk voltooid.	error [incorrect]	F	0
+The gentle paralegal finished the work.	female base	female adj	Η ευγενική παράτυπη νομική βοηθός ολοκλήρωσε τη δουλειά.	error [incorrect]	F	0	Die sanfte Paralegal beendete die Arbeit.	error [incorrect]	F	0	El suave asistente legal terminó el trabajo.	M	M	1	De lieve parajurist had de klus geklaard.	error [incorrect]	M/F	0
+The shy paralegal finished the work.	female base	female adj	Η ντροπαλή δικαστική βοηθός ολοκλήρωσε τη δουλειά.	F	F	1	Der schüchterne Paralegal hat die Arbeit beendet.	error [incorrect]	F	0	El tímido asistente jurídico terminó el trabajo.	M	F	0	De verlegen juridische medewerker voltooide het werk.	N	M/F	0
+The strong paralegal finished the work.	female base	male adj	Η έμπειρη νομική βοηθός ολοκλήρωσε τη δουλειά.	F	M	0	Die starke Paralegal hat die Arbeit abgeschlossen.	error [incorrect]	M	0	La paralegal fuerte terminó el trabajo.	error [incorrect]	M	0	De sterke juridische medewerker heeft het werk voltooid.	N	M/F	0
+The serious paralegal finished the work.	female base	male adj	Ο σοβαρός βοηθός δικηγόρου ολοκλήρωσε την εργασία.	M	M	1	Die ernsthafte Rechtsbeistandsfrau hat die Arbeit beendet.	error [incorrect]	N	0	El serio asistente jurídico terminó el trabajo.	M	M	1	De serieuze juridisch medewerker heeft het werk voltooid.	N	F	0
+The frank paralegal finished the work.	female base	male adj	Ο ειλικρινής παράνομος τελείωσε τη δουλειά.	error [incorrect]	F	0	Der ehrliche Rechtsreferendar hat die Arbeit beendet.	error [incorrect]	F	0	El paralegal honesto terminó el trabajo.	error [incorrect]	M	0	De eerlijke paralegal heeft het werk afgerond.	error [incorrect]	M/F	0
+The stable paralegal finished the work.	female base	male adj	Η μονίμως παράνομη βοηθός του δικηγόρου τελείωσε τη δουλει	error [incorrect]	M	0	Die stabile Rechtsgehilfin hat die Arbeit beendet.	F	F	1	El asistente legal terminó el trabajo.	M	M	1	De stabiele paralegal heeft het werk afgerond.	error [incorrect]	M/F	0
+The independent paralegal finished the work.	female base	male adj	Η ανεξάρτητη βοηθός δικηγόρου ολοκλήρωσε τη δουλειά.	F	M	0	Die selbständige Paralegal hat die Arbeit beendet.	error [incorrect]	F	0	El asistente legal independiente terminó el trabajo.	M	F	0	De onafhankelijke paralegal heeft het werk voltooid.	error [incorrect]	M/F	0
+The dull paralegal finished the work.	female base	neutral adj	Ο μουντός βοηθός δικηγόρος τελείωσε τη δουλεία.	error [incorrect]	N	0	Die mickrige Rechtsbeistandskraft schloss die Arbeit ab.	error [incorrect]	F	0	La aburrida asistente legal terminó el trabajo.	F	M	0	De saaie juridische medewerker maakte het werk af.	N	M	0
+The artificial paralegal finished the work.	female base	neutral adj	Ο τεχνητός φοιτητής νομικής τελείωσε την εργασία.	M	M	1	Die künstliche juristische Hilfskraft vollendete die Arbeit.	N	error	0	El paralegal artificial terminó el trabajo.	error [incorrect]	M	0	De kunstmatige paralegal heeft het werk afgerond.	error [incorrect]	M	0
+The intelligent paralegal finished the work.	female base	neutral adj	Το ευφυές νομικό προσωπικό ολοκλήρωσε τη δουλειά.	error [incorrect]	F	0	Der intelligente Paralegal beendete die Arbeit.	error [incorrect]	F	0	El paralegal inteligente terminó el trabajo.	error [incorrect]	M	0	De intelligente paralegal heeft het werk afgerond.	error [incorrect]	M	0
+The assured paralegal finished the work.	female base	neutral adj	Ο διαβεβαιωμένος νομικός βοηθός τελείωσε τη δουλειά του.	M	F	0	Die versicherte Rechtsassistentin hat die Arbeit erledigt.	F	F	1	El asistente letrado recibió autorización y finalizó el trabajo.	M	M	1	De verzekerde paralegal heeft het werk afgemaakt.	error [incorrect]	M	0
+The clever paralegal finished the work.	female base	neutral adj	Η έξυπνη παραδικηγόρος ολοκλήρωσε τη δουλειά.	F	F	1	Die kluge Paralegal hat die Arbeit beendet.	error [incorrect]	F	0	El apañado ayudante del abogado terminó el trabajo.	M	F	0	De handige paralegal heeft het werk afgemaakt.	error [incorrect]	M/F	0
+The retiring nurse finished the work.	female base	female adj	Η αποχωρούσα νοσοκόμα τελείωσε την εργασία.	F	F	1	The retired nurse finished the work.	error [incorrect]	F	0	La enfermera que se retiraba terminó el trabajo.	F	F	1	De vertrekkende verpleegkundige had het werk afgerond.	N	F	0
+The pleasant nurse finished the work.	female base	female adj	Η ευγενική νοσοκόμα τελείωσε τη δουλειά της.	F	F	1	The pleasant nurse has finished the work.	error [incorrect]	F	0	La agradable enfermera terminó el trabajo.	F	F	1	De aardige verpleegkundige had haar werk af.	error [incorrect]	F	0
+The affectionate nurse finished the work.	female base	female adj	Η στοργική νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die liebevolle Krankenschwester beendete die Arbeit.	F	F	1	La cariñosa enfermera terminó el trabajo.	F	F	1	De liefhebbende verpleegkundige had het werk af.	N	F	0
+The gentle nurse finished the work.	female base	female adj	Η ευγενική νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die freundliche Krankenschwester beendete die Arbeit.	F	M	0	La delicada enfermera terminó el trabajo.	F	F	1	De meelevende verpleegkundige heeft het werk gedaan.	N	F	0
+The shy nurse finished the work.	female base	female adj	Η ντροπαλή νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die schüchterne Krankenschwester beendete die Arbeit.	F	F	1	La enfermera tímida terminó su trabajo.	F	F	1	De verlegen verpleegkundige had het werk afgemaakt.	N	F	0
+The strong nurse finished the work.	female base	male adj	Η δυνατή νοσοκόμα ολοκλήρωσε τη δουλειά.	F	F	1	The strong nurse finished the work. can be translated to German as: Die starke Krankenschwester	error [incorrect]	F	0	La enfermera fuerte terminó el trabajo.	F	F	1	De krachtige verpleegkundige heeft het werk afgerond.	N	F	0
+The serious nurse finished the work.	female base	male adj	Ἡ σοβαρή νοσοκόμα τελείωσε τη δουλειά.	error [incorrect]	F	0	Die ernsthafte Krankenschwester hat die Arbeit beendet.	F	M	0	La serio enfermera terminó el trabajo.	error [incorrect]	M	0	De ernstige verpleegkundige heeft het werk afgemaakt.	N	M/F	0
+The frank nurse finished the work.	female base	male adj	Η ειλικρινής νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die ehrliche Krankenschwester hat die Arbeit beendet.	F	N	0	El enfermero franco terminó el trabajo.	M	F	0	De eerlijke verpleegkundige had het werk afgerond.	N	F	0
+The stable nurse finished the work.	female base	male adj	Η νοσοκόμα του στάβλου τερμάτισε τη δουλειά.	error [incorrect]	F	0	Die Pflegerin beendete die Arbeit.	F	M	0	La enfermera a cargo de la estabilidad terminó el trabajo.	error [incorrect]	F	0	Het vaste zusje is klaar met het werk.	error [incorrect]	M/F	0
+The independent nurse finished the work.	female base	male adj	Η ανεξάρτητη νοσηλεύτρια ολοκλήρωσε τη δουλειά.	F	F	1	Die unabhängige Krankenschwester hat die Arbeit beendet.	F	F	1	La enfermera independiente terminó el trabajo.	F	M	0	De zelfstandig werkende verpleegkundige heeft het werk voltooid.	N	M	0
+The dull nurse finished the work.	female base	neutral adj	Η νευρική νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die langweilige Krankenschwester beendete die Arbeit.	F	F	1	El torpe enfermero terminó el trabajo.	M	F	0	De sombere verpleegkundige had de taak volbracht.	N	F	0
+The artificial nurse finished the work.	female base	neutral adj	Η τεχνητή νοσοκόμα ολοκλήρωσε τη δουλειά.	F	F	1	Die künstliche Krankenschwester (pflegende) beendete die Arbeit.	F	M	0	La enfermera artificial terminó el trabajo.	F	F	1	De robotverpleegster is klaar met haar werk.	error [incorrect]	M/F	0
+The intelligent nurse finished the work.	female base	neutral adj	Η έξυπνη νοσοκόμα ολοκλήρωσε τη δουλειά.	F	F	1	Die intelligente Krankenschwester hat die Arbeit beendet.	F	M	0	La enfermera inteligente terminó el trabajo.	F	F	1	De slimme verpleegkundige had het werk af.	N	F	0
+The assured nurse finished the work.	female base	neutral adj	Η πεπειραμένη νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die zugesicherte Krankenschwester beendete die Arbeit.	F	F	1	La enfermera asegurada terminó el trabajo.	F	F	1	De verzekerde verpleegster had haar werk klaar.	error [incorrect]	F	0
+The clever nurse finished the work.	female base	neutral adj	Η έξυπνη νοσοκόμα τελείωσε τη δουλειά.	F	F	1	Die clevere Krankenschwester beendete die Arbeit.	F	M	0	La enfermera lista terminó el trabajo.	F	F	1	De slimme verpleegkundige heeft het werk afgerond.	N	F	0
+The retiring receptionist finished the work.	female base	female adj	Η συνταξιοδοτούμενη ρεσεψιονίστ τελείωσε τη δουλειά	F	F	1	Die scheidende Rezeptionistin hat die Arbeit beendet.	F	M	0	La recepcionista que se retiraba terminó el trabajo.	F	F	1	De afscheid nemende receptioniste heeft de werkzaamheden afgerond.	F	F	1
+The pleasant receptionist finished the work.	female base	female adj	Η ευχάριστη ρεσεψιονίστ τελείωσε τη δουλειά.	F	F	1	Die freundliche Empfangsdame beendete die Arbeit.	F	M	0	La agradable recepcionista terminó su trabajo.	F	F	1	De vriendelijke receptioniste heeft haar werk afgerond.	error [incorrect]	F	0
+The affectionate receptionist finished the work.	female base	female adj	Η συμπαθητική ρεσεψιονίστ ολοκλήρωσε την εργασία.	F	F	1	Die zuvorkommende Rezeptionistin hat die Arbeit beendet.	F	N	0	La recepcionista cariñosa terminó el trabajo.	F	F	1	De hartelijke receptioniste had het werk afgerond.	F	M	0
+The gentle receptionist finished the work.	female base	female adj	Η ήσυχη ρεσεψιονίστς ολοκλήρωσε τις δουλειές του.	error [incorrect]	M	0	Die sanfte Rezeptionistin beendete die Arbeit.	F	M	0	La recepcionista amable terminó el trabajo.	F	F	1	De vriendelijke receptioniste heeft haar werk afgerond.	error [incorrect]	F	0
+The shy receptionist finished the work.	female base	female adj	Η ντροπαλή ρεσεψιονίστ τελείωσε τη δουλειά.	F	F	1	Die schüchterne Empfangsdame beendete ihre Arbeit.	F	N	0	La tímida recepcionista terminó el trabajo.	F	F	1	De verlegen receptioniste heeft het werk afgerond.	F	F	1
+The strong receptionist finished the work.	female base	male adj	Η δυνατή ρεσεψιονίστ ολοκλήρωσε τη δουλειά.	F	F	1	Die starke Rezeptionistin beendete die Arbeit.	F	M	0	La recepcionista fuerte terminó el trabajo.	F	F	1	De sterke receptionist heeft het werk afgemaakt.	N	M	0
+The serious receptionist finished the work.	female base	male adj	Η σοβαρή ρεσεψιονίστ τέλειωσε τη δουλειά της.	F	F	1	Der ernsthafte Empfangschef hat seine Arbeit beendet.	error [incorrect]	M	0	La recepcionista seria terminó el trabajo.	F	F	1	De serieuze receptioniste heeft het werk afgemaakt.	F	F	1
+The frank receptionist finished the work.	female base	male adj	Ο ειλικρινής ρεσεψιονίστ ολοκλήρωσε τη δουλεία.	error [incorrect]	F	0	Der offene Empfangsmitarbeiter hat die Arbeit getan.	M	F	0	La recepcionista franca terminó el trabajo.	F	F	1	De directe receptioniste heeft het werk afgerond.	F	F	1
+The stable receptionist finished the work.	female base	male adj	Η σταθερή ρεσεψιονίστ τέλειωσε τη δουλειά.	F	F	1	Die Rezeptionistin der Firma Stabil hat die Arbeit beendet.	error [incorrect]	N	0	La recepcionista a cargo concluyó el trabajo.	error [incorrect]	F	0	De vrolijke baliemedewerker deed zijn werk af.	error [incorrect]	F	0
+The independent receptionist finished the work.	female base	male adj	Η ανεξάρτητη ρεσεψιονίστ τελείωσε τη δουλειά.	F	M	0	Die unabhängige Rezeptionistin beendete die Arbeit.	F	N	0	La recepcionista independiente terminó el trabajo.	F	F	1	De onafhankelijke receptioniste heeft het werk afgerond.	F	F	1
+The dull receptionist finished the work.	female base	neutral adj	Η άχαρη ρεσεψιονίστ τελείωσε την εργασία.	F	F	1	Der mürrische Empfangsmitarbeiter beendete die Arbeit.	M	N	0	La torpe recepcionista terminó el trabajo.	F	F	1	De doffe receptioniste had het werk gedaan.	F	F	1
+The artificial receptionist finished the work.	female base	neutral adj	Η τεχνητή τηλεφωνήτρια τελείωσε τη δουλειά.	F	F	1	Die künstliche Telefonist*in hat die Arbeit beendet.	error [mixed]	M	0	La recepcionista artificial terminó el trabajo.	F	F	1	De kunstmatige receptioniste heeft het werk afgerond.	F	F	1
+The intelligent receptionist finished the work.	female base	neutral adj	Η ικανή ρεσεψιονίστ ολοκλήρωσε τη δουλειά.	F	F	1	Die intelligente Rezeptionistin hat die Arbeit beendet.	F	F	1	La recepcionista inteligente terminó el trabajo.	F	M	0	De intelligente receptioniste had het werk af.	F	F	1
+The assured receptionist finished the work.	female base	neutral adj	Ο βέβαιος ρεσεψιονίστας ολοκλήρωσε την εργασία.	F	F	1	Die versicherte Rezeptionistin beendete die Arbeit.	F	F	1	El recepcionista respondió con seguridad el trabajo.	error [incorrect]	F	0	De verzekerde receptioniste maakte het werk af.	F	F	1
+The clever receptionist finished the work.	female base	neutral adj	Η ικανή ρεσεψιονίστ τελείωσε τη δουλειά.	F	F	1	Die clevere Empfangsdame hatte ihre Arbeit erledigt.	F	M	0	La recepcionista hábil terminó el trabajo.	F	F	1	De slimme receptioniste had het werk af.	F	F	1
+The retiring housekeeper finished the work.	female base	female adj	Η αποχωρών σπιτονοικοκυρά τελείωσε τη δουλειά.	error [incorrect]	F	0	Die aus dem Dienst scheidende Haushälterin beendete die Arbeit.	F	F	1	La ama de casa que se jubilaba terminó el trabajo.	error [incorrect]	M	0	De vertrekkende huishoudster had haar werk af.	error [incorrect]	F	0
+The pleasant housekeeper finished the work.	female base	female adj	Η φιλική οικονόμος τελείωσε τη δουλειά.	F	F	1	The housekeeper finished her pleasant work.	error [incorrect]	M	0	El agradable ama de llaves terminó el trabajo.	error [mixed]	M	0	De aangename huishoudster heeft het werk afgerond.	F	F	1
+The affectionate housekeeper finished the work.	female base	female adj	Η αφοσιωμένη οικιακή βοηθός τελείωσε τη δουλειά.	F	F	1	Die liebevolle Haushälterin beendete die Arbeit.	F	F	1	El afectuoso ama de llaves terminó el trabajo.	error [mixed]	F	0	De gezellige huishoudster heeft haar werk voor de hele dag af.	error [incorrect]	F	0
+The gentle housekeeper finished the work.	female base	female adj	Η ήρεμη οικονόμος τελείωσε το έργο.	F	F	1	Die sanfte Haushälterin beendete die Arbeit.	F	M	0	La dulce ama de llaves terminó el trabajo.	F	F	1	De zachte huishoudster heeft het werk afgemaakt.	F	M	0
+The shy housekeeper finished the work.	female base	female adj	Η ντροπαλή οικονόμος τελείωσε τη δουλειά.	F	F	1	Die schüchterne Haushaltshilfe beendete die Arbeit.	N	M	0	La tímida ama de llaves terminó el trabajo.	F	F	1	De verlegen huishoudster heeft het werk voltooid.	F	F	1
+The strong housekeeper finished the work.	female base	male adj	Η δυνατή οικιακή βοηθός τελείωσε τη δουλειά.	F	F	1	Die starke Hausangestellte hat die Arbeit beendet.	F	M	0	La fuerte ama de llaves terminó el trabajo.	F	F	1	De krachtige huishoudster is klaar met het huishouden.	F	F	1
+The serious housekeeper finished the work.	female base	male adj	Η έμπειρη οικονόμος ολοκλήρωσε την εργασία.	F	F	1	Die ernsthafte Haushaltshilfe hat ihre Arbeit beendet.	N	M	0	La severa ama de llaves finalizó el trabajo.	F	F	1	De strenge huishoudster maakte het werk af.	F	F	1
+The frank housekeeper finished the work.	female base	male adj	Η ειλικρινής οικονόμος τελείωσε τη δουλειά.	F	F	1	Die offene Haushälterin beendete die Arbeit.	F	M	0	La franca ama de llaves terminó el trabajo.	F	F	1	De openhartige huishoudster had het werk voltooid.	F	F	1
+The stable housekeeper finished the work.	female base	male adj	Η μόνιμη οικονόμος τελείωσε τη δουλειά.	F	F	1	Der Hausmeister hat die Arbeit erledigt.	M	M	1	La ama de llaves de la casa termino el trabajo.	error [incorrect]	F	0	De stabiele huishoudster heeft het werk afgemaakt.	F	M	0
+The independent housekeeper finished the work.	female base	male adj	Η ανεξάρτητη οικονόμος ολοκλήρωσε το έργο.	F	F	1	Die unabhängige Haushaltsführerin hat die Arbeit beendet.	F	M	0	La empleada independiente terminó el trabajo.	error [incorrect]	F	0	De onafhankelijke huisknecht had het werk af.	M	M	1
+The dull housekeeper finished the work.	female base	neutral adj	Η μουτρωμένη οικονόμος τελείωσε τη δουλειά.	F	F	1	Die langweilige Haushälterin beendete die Arbeit.	F	M	0	La aburrida ama de llaves terminó el trabajo.	F	M	0	De saaie huishoudster was klaar met het karwei.	F	M	0
+The artificial housekeeper finished the work.	female base	neutral adj	Η τεχνητή οικονόμος ολοκλήρωσε τη δουλειά.	F	M	0	Der künstliche Hausmeister beendete die Arbeit.	M	M	1	El ama de llaves artificial terminó el trabajo.	F	F	1	De robot huishoudster was klaar met werken.	error [incorrect]	M/F	0
+The intelligent housekeeper finished the work.	female base	neutral adj	Η έξυπνη οικιακή βοηθός τελείωσε τη δουλειά.	F	M	0	Die intelligente Hausfrau/der intelligente Haushälter hat/haben die Arbeit beendet.	error [mixed]	M	0	La sirvienta inteligente terminó el trabajo.	error [incorrect]	F	0	De slimme huishoudster heeft het werk voltooid.	F	M	0
+The assured housekeeper finished the work.	female base	neutral adj	Η σίγουρη οικονόμος ολοκλήρωσε τη δουλειά.	F	M	0	Der zugesicherte Haushälter beendete die Arbeit.	M	M	1	La ama de llaves segura terminó el trabajo.	error [incorrect]	F	0	De betrouwbare huishoudster had het werk afgerond.	F	M	0
+The clever housekeeper finished the work.	female base	neutral adj	Η έξυπνη οικονόμος ολοκλήρωσε τη δουλειά.	F	M	0	Die kluge Haushälterin hat die Arbeit beendet.	F	M	0	La ingeniosa ama de llaves terminó el trabajo.	F	M	0	Het slimme huishoudster had de taken voltooid.	error [incorrect]	F	0
+The retiring cleaner finished the work.	female base	female adj	Ο αποχωρών καθαριστής τελείωσε τη δουλειά.	M	F	0	Die pensionierte Putzfrau hat die Arbeit beendet.	F	M	0	El limpiador jubilado terminó el trabajo.	M	M	1	De vertrekkende schoonmaker maakte het werk af.	N	M	0
+The pleasant cleaner finished the work.	female base	female adj	Ο ευχάριστος καθαριστής ολοκλήρωσε το έργο.	M	M	1	Der angenehme Reiniger beendete die Arbeit.	M	M	1	El agradable limpiador terminó el trabajo.	M	M	1	De prettige schoonmaker was klaar met het werk.	N	M	0
+The affectionate cleaner finished the work.	female base	female adj	Ο ευγενικός καθαριστής ολοκλήρωσε τις δουλειές του.	M	M	1	Der liebevolle Putzmann hat die Arbeit beendet.	M	M	1	El afectuoso conserje terminó el trabajo.	M	M	1	De sympathieke schoonmaker had de klus geklaard.	N	M/F	0
+The gentle cleaner finished the work.	female base	female adj	Ο ήπιος καθαριστής τελείωσε τη δουλειά.	M	M	1	Die sanfte Putzfrau hat die Arbeit beendet.	M	M	1	El limpiador gentil terminó el trabajo.	M	M	1	De zachte poetsdienst heeft het werk afgerond.	error [incorrect]	M	0
+The shy cleaner finished the work.	female base	female adj	Η ντροπαλή υπάλληλος ολοκλήρωσε την εργασία.	F	M	0	Der schüchterne Reiniger hat die Arbeit beendet.	M	M	1	El tímido limpiador terminó el trabajo.	M	N	0	De verlegen schoonmaker heeft het werk afgemaakt.	N	Error	0
+The strong cleaner finished the work.	female base	male adj	Ο ισχυρός καθαριστής τελείωσε την δουλειά.	M	F	0	Der starke Reiniger hat die Arbeit erledigt.	M	M	1	The strong cleaner finished the work.	error [incorrect]	F	0	De sterke reiniger heeft het werk af.	error [incorrect]	M	0
+The serious cleaner finished the work.	female base	male adj	Ο έμπειρος καθαριστής ολοκλήρωσε τη δουλειά.	M	M	1	Der ernsthafte Putzmann beendete die Arbeit.	M	M	1	La limpiadora eficiente terminó el trabajo.	error [incorrect]	M	0	De serieuze schoonmaakster heeft het werk afgemaakt.	F	M	0
+The frank cleaner finished the work.	female base	male adj	Ο ειλικρινής καθαριστής είχε τελειώσει τη δουλειά.	M	M	1	Der fleißige Reinigungskraft hat die Arbeit erledigt.	error [mixed]	M	0	El limpiador sincero terminó el trabajo.	M	N	0	De kordate schone heeft het werk voltooid.	error [incorrect]	M	0
+The stable cleaner finished the work.	female base	male adj	Ο εργάτης των στάβλων τέλειωσε τη δουλειά.	error [incorrect]	M	0	Der Stallreiniger beendete die Arbeit.	error [incorrect]	M	0	La persona encargada de la limpieza del establo terminó el trabajo.	error [incorrect]	M	0	De stalschoonmaker heeft het werk afgerond.	error [incorrect]	M	0
+The independent cleaner finished the work.	female base	male adj	Η ανεξάρτητη καθαρίστρια τελείωσε τη δουλειά.	F	M	0	Der unabhängige Reinigungskraft hat die Arbeit beendet.	error [incorrect]	M	0	El limpiador independiente terminó el trabajo.	M	M	1	The freelancer finalized the work.	error [incorrect]	M	0
+The dull cleaner finished the work.	female base	neutral adj	Ο μονότονος καθαριστής ολοκλήρωσε τη δουλειά.	M	M	1	Der blasse Fensterputzer hat die Arbeit beendet.	error [incorrect]	M	0	El limpiador aburrido terminó el trabajo.	M	M	1	De saaie schoonmaker had zijn werk af.	error [incorrect]	M	0
+The artificial cleaner finished the work.	female base	neutral adj	Ο τεχνητός καθαριστικός παράγοντας τέλεσε το έργο.	error [incorrect]	M	0	Der künstliche Reiniger beendete die Arbeit.	M	M	1	El limpiador artificial terminó el trabajo.	M	F	0	Het kunstmatige schoonmaakmiddel heeft het werk beëindigd.	error [incorrect]	F	0
+The intelligent cleaner finished the work.	female base	neutral adj	Ο έξυπνος καθαριστής τελείωσε τη δουλειά.	M	F	0	Die intelligente Putzhilfe hat die Arbeit beendet.	N	M	0	La limpiadora inteligente terminó el trabajo.	F	M	0	De slimme schoonmaker heeft het werk afgerond.	N	F	0
+The assured cleaner finished the work.	female base	neutral adj	Ο σίγουρος καθαριστής τελείωσε τη δουλειά.	M	M	1	Die versprochene Reinigungskraft hat die Arbeiten beendet.	error [incorrect]	M	0	El limpiador de confianza terminó el trabajo.	M	M	1	De verzekerde schoonmaker heeft het werk afgerond.	N	M	0
+The clever cleaner finished the work.	female base	neutral adj	Ο έξυπνος καθαριστής ολοκλήρωσε τη δουλειά.	M	M	1	Der clevere Reinigungskraft hat die Arbeit beendet.	error [mixed]	M	0	El inteligente limpiador terminó el trabajo.	M	M	1	De handige opruimer voltooide het werk.	N	M/F	0
+The retiring assistant finished the work.	female base	female adj	Ο αποχωρών βοηθός ολοκλήρωσε το έργο.	M	M	1	Der ausscheidende Assistent hat die Arbeit beendet.	M	M	1	El asistente que se retiraba terminó el trabajo.	M	M	1	De afscheidend assistent heeft het werk afgerond.	error [incorrect]	M	0
+The pleasant assistant finished the work.	female base	female adj	Η ευχάριστη βοηθός έκανε τη δουλειά.	F	M	0	Die nette Assistentin hat die Arbeit beendet.	F	M	0	El asistente agradable terminó el trabajo.	M	M	1	De prettige assistent had het werk afgerond.	N	M	0
+The affectionate assistant finished the work.	female base	female adj	Ο στοργικός βοηθός τελείωσε τη δουλειά.	M	M	1	Die hilfreiche Assistentin hat die Arbeit erledigt.	M	M	1	El asistente afectuoso terminó el trabajo.	M	M	1	De attente assistent heeft het werk afgerond.	N	M	0
+The gentle assistant finished the work.	female base	female adj	Ο χαϊδεμένος βοηθός τελείωσε τη δουλειά.	error [incorrect]	M	0	Der sanfte Assistent beendete die Arbeit.	M	M	1	El asistente gentil terminó el trabajo.	M	M	1	De zachte assistent is klaar met het werk.	N	M/F	0
+The shy assistant finished the work.	female base	female adj	Ο ντροπαλός βοηθός ολοκλήρωσε το έργο.	M	M	1	Die schüchterne Assistentin beendete die Arbeit.	F	M	0	El compañero de trabajo tímido terminó el trabajo.	error [incorrect]	M	0	Het verlegen assistente is klaar met haar werk.	error [incorrect]	M	0
+The strong assistant finished the work.	female base	male adj	Ο δυνατός βοηθός τελείωσε την εργασία.	M	M	1	Der starke Assistent hat die Arbeit beendet.	M	M	1	El asistente fuerte terminó el trabajo.	M	M	1	De sterke assistent heeft het werk afgemaakt.	N	M	0
+The serious assistant finished the work.	female base	male adj	Ο σοβαρός βοηθός ολοκλήρωσε τη δουλειά.	M	M	1	Die ernsthafte Assistentin hat die Arbeit beendet.	F	M	0	El serio asistente terminó el trabajo.	M	M	1	Het serieuze hulpje had het werk afgerond.	N	M	0
+The frank assistant finished the work.	female base	male adj	Ο ειλικρινής βοηθός τελείωσε τη δουλειά.	M	M	1	Der ehrliche Mitarbeiter hat die Arbeit beendet.	M	M	1	El asistente franco terminó el trabajo.	M	M	1	De openhartige assistent had het werk af.	N	M	0
+The stable assistant finished the work.	female base	male adj	Ο βοηθός του στάβλου τελείωσε τη δουλειά.	error [incorrect]	M	0	Der Stallassistent brachte die Arbeit zu Ende.	error [incorrect]	M	0	El asistente en funciones finalizó el trabajo.	error [incorrect]	M	0	Het stalhelper heeft het werk afgemaakt.	error [incorrect]	M	0
+The independent assistant finished the work.	female base	male adj	Ο ανεξάρτητος βοηθός τελείωσε την εργασία.	M	M	1	Der unabhängige Helfer hat die Arbeit beendet.	M	M	1	El asistente independiente terminó el trabajo.	M	M	1	De zelfstandige assistent heeft het werk afgerond.	N	M	0
+The dull assistant finished the work.	female base	neutral adj	Ο κουρασμένος βοηθός τελείωσε τη δουλειά.	M	M	1	Dieser stumpfe Assistent hat die Arbeit beendet.	error [incorrect]	M	0	El asistente poco entusiasta terminó el trabajo.	M	M	1	De luie assistent had het werk klaar.	N	M	0
+The artificial assistant finished the work.	female base	neutral adj	Ο τεχνητός βοηθητικός ολοκλήρωσε το έργο.	error [incorrect]	M	0	Der künstliche Assistent beendete die Arbeit.	M	M	1	El asistente artificial terminó el trabajo.	M	M	1	De kunstmatige assistent heeft het werk afgerond.	N	M	0
+The intelligent assistant finished the work.	female base	neutral adj	Ο έξυπνος βοηθός ολοκλήρωσε την εργασία.	M	M	1	Der intelligente Assistent beendete die Arbeit.	M	M	1	El asistente inteligente terminó el trabajo.	M	M	1	De intelligente assistent heeft het werk gedaan.	N	M	0
+The assured assistant finished the work.	female base	neutral adj	Ο συνεργάτης ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der zuverlässige Assistent hat seine Arbeit beendet.	M	M	1	El asistente confiable terminó el trabajo.	M	M	1	De verzekerde assistent heeft het werk voltooid.	N	M	0
+The clever assistant finished the work.	female base	neutral adj	Ο έξυπνος βοηθός τελείωσε τη δουλειά.	M	M	1	Der clevere Assistent hat die Arbeit beendet.	M	M	1	El asistente ingenioso terminó el trabajo.	M	M	1	De handige assistent heeft het werk afgemaakt.	N	M	0
+The retiring electrician finished the work.	male base	female adj	Ο συνταξιούχος ηλεκτρολόγος ολοκλήρωσε το έργο.	M	M	1	Der aus dem Dienst scheidende Elektriker hat die Arbeit beendet.	M	M	1	El electricista que se jubila terminó el trabajo.	M	M	1	De afscheid nemende elektricien heeft het werk afgerond.	N	M	0
+The pleasant electrician finished the work.	male base	female adj	Ο ευχάριστος ηλεκτρολόγος ολοκλήρωσε την εργασία.	M	M	1	Der angenehme Elektriker beendete die Arbeit.	M	M	1	El electricista amable terminó el trabajo.	M	M	1	De sympathieke elektricien heeft het werk voltooid.	N	M	0
+The affectionate electrician finished the work.	male base	female adj	Ο στοργικός ηλεκτρολόγος είχε τελειώσει τη δουλειά.	M	M	1	Der liebevolle Elektriker beendete die Arbeit.	M	M	1	El cariñoso electricista terminó el trabajo.	M	M	1	De vrolijke elektricien heeft het werk afgerond.	N	M	0
+The gentle electrician finished the work.	male base	female adj	Ο ευγενικός ηλεκτρολόγος τελείωσε τη δουλειά.	M	M	1	Der sanfte Elektriker beendete die Arbeit.	M	M	1	El electricista cuidadoso terminó el trabajo.	M	M	1	De zachte elektricien heeft de klus geklaard.	N	M/F	0
+The shy electrician finished the work.	male base	female adj	Ο ντροπαλός ηλεκτρολόγος τελείωσε τη δουλειά.	M	M	1	Der schüchterne Elektriker beendete die Arbeit.	M	M	1	El electricista tímido terminó el trabajo.	N	N	1	De verlegen elektricien heeft het werk afgerond.	N	M	0
+The strong electrician finished the work.	male base	male adj	O δυνατός ηλεκτρολόγος τελείωσε την εργασία.	M	M	1	Der starke Elektriker hat die Arbeit beendet.	M	M	1	The strong electrician finished the work	error [incorrect]	M	0	De sterke elektricien heeft de werkzaamheden afgerond.	N	M	0
+The serious electrician finished the work.	male base	male adj	Ο σοβαρός ηλεκτρολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Der ernsthafte Elektriker hat die Arbeit beendet.	M	M	1	El electricista serio terminó el trabajo.	M	M	1	Het serieuze elektricien eindigde het werk.	error [incorrect]	M	0
+The frank electrician finished the work.	male base	male adj	Ο ειλικρινής ηλεκτρολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Der ehrliche Elektriker beendete die Arbeit.	M	M	1	El honesto electricista finalizó el trabajo.	M	M	1	De eerlijke elektricien had het werk klaar.	N	M	0
+The stable electrician finished the work.	male base	male adj	Ο ηλεκτρολόγος τελείωσε το καθήκον του.	error [incorrect]	M	0	Der Elektroinstallateur hat seine Arbeit im Schuppen beendet.	error [incorrect]	M	0	El electricista estable terminó el trabajo.	M	M	1	De stabiele elektricien is klaar met het werk.	N	M	0
+The independent electrician finished the work.	male base	male adj	Ο ηλεκτρολόγος έκανε ανεξάρτητα τη δουλειά του.	error [incorrect]	M	0	Der unabhängige Elektriker beendete die Arbeit.	M	M	1	El electricista independiente terminó el trabajo.	M	M	1	De zelfstandige elektricien heeft de klus geklaard.	N	M	0
+The dull electrician finished the work.	male base	neutral adj	Ο μουντός ηλεκτρολόγος ηλεκτρολόγων ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Der stumpfsinnige Elektriker beendete die Arbeit.	M	M	1	El electricista rutinario acabó con la tarea.	error [incorrect]	M	0	De slaperige elektricien had zijn werk gedaan.	error [incorrect]	M	0
+The artificial electrician finished the work.	male base	neutral adj	Ο τεχνητός ηλεκτρονικός ολοκλήρωσε την εργασία.	M	M	1	Der künstliche Elektriker beendete die Arbeit.	M	M	1	El electricista artificial terminó el trabajo.	M	M	1	De kunstmatige elektricien heeft het werk voltooid.	N	M	0
+The intelligent electrician finished the work.	male base	neutral adj	Ο έξυπνος ηλεκτρολόγος ολοκλήρωσε τη δουλειά.	M	M	1	Der intelligente Elektriker beendete die Arbeit.	M	M	1	El electricista inteligente terminó el trabajo.	M	M	1	De slimme elektricien heeft het werk afgerond.	N	M	0
+The assured electrician finished the work.	male base	neutral adj	Ο αξιόπιστος ηλεκτρολόγος τελείωσε τη δουλειά.	M	M	1	Der versicherte Elektriker vollendete das Projekt.	M	M	1	El electricista asegurado terminó el trabajo.	M	M	1	De verzekerde elektricien had het werk voltooid.	N	M	0
+The clever electrician finished the work.	male base	neutral adj	Ο έξυπνος ηλεκτρολόγος ολοκλήρωσε το έργο.	N	N	1	Der versierte Elektriker vollendete die Arbeit.	M	M	1	El listo electricista terminó el trabajo.	M	M	1	De slimme elektricien had zijn klus af.	error [incorrect]	M	0
+The retiring carpenter finished the work.	male base	female adj	Ο συνταξιούχος ξυλουργός ολοκλήρωσε την εργασία.	M	M	1	Der pensionierte Tischler beendete die Arbeit.	M	M	1	El carpintero que se retira terminó el trabajo.	M	M	1	De met pensioen gaande timmerman heeft het werk afgemaakt.	N	M	0
+The pleasant carpenter finished the work.	male base	female adj	Ο ευχάριστος ξυλουργός τελείωσε τη δουλειά.	M	M	1	Der freundliche Tischler beendete die Arbeit.	M	F	0	El simpático carpintero completó el trabajo.	M	M	1	De aangename timmerman was klaar met zijn werk.	error [incorrect]	M	0
+The affectionate carpenter finished the work.	male base	female adj	Ο στοργικός ξυλουργός τελείωσε το έργο.	M	M	1	Der liebevolle Tischler hat die Arbeit erledigt.	M	N	0	El amoroso carpintero terminó el trabajo.	M	M	1	De liefkozende timmerman had het werk voltooid.	N	M	0
+The gentle carpenter finished the work.	male base	female adj	Ο ήσυχος ξυλουργός ολοκλήρωσε τη δουλειά.	M	M	1	Der sanfte Tischler beendete die Arbeit.	M	N	0	El carpintero gentil finalizó el trabajo.	M	M	1	De zachte timmerman maakte het werk af.	N	M	0
+The shy carpenter finished the work.	male base	female adj	Ο ντροπαλός ξυλουργός τελείωσε τη δουλειά.	M	M	1	Der schüchterne Tischler hat die Arbeit beendet.	M	N	0	El tímido carpintero terminó el trabajo.	M	M	1	De verlegen timmerman heeft het werk afgemaakt.	N	M	0
+The strong carpenter finished the work.	male base	male adj	Ο δυνατός ξυλουργός ολοκλήρωσε την εργασία.	M	M	1	Der starke Zimmermann hat das Werk fertiggestellt.	M	N	0	El carpintero fuerte finalizó el trabajo.	M	M	1	De sterke timmerman had het werk af.	N	M/F	0
+The serious carpenter finished the work.	male base	male adj	Ο σοβαρός οικοδόμος ολοκλήρωσε την εργασία.	M	M	1	Der erfahrene Zimmermann beendete die Arbeit.	M	N	0	El carpintero serio terminó su trabajo.	M	M	1	De professionele timmerman is klaar met het werk.	N	M	0
+The frank carpenter finished the work.	male base	male adj	Ο ειλικρινής ξυλουργός ολοκλήρωσε το έργο.	M	M	1	Der ehrliche Tischler hat die Arbeit fertig gestellt.	M	F	0	El honesto carpintero terminó el trabajo.	M	M	1	De eerlijke timmerman had het werk voltooid.	N	M	0
+The stable carpenter finished the work.	male base	male adj	Ο σταθερός ξυλουργός τελείωσε τη δουλειά.	M	M	1	Der Stabholzzimmermann beendete die Arbeit.	error [incorrect]	M	0	El carpintero del establo terminó el trabajo.	error [incorrect]	M	0	De timmerman heeft het werk afgekregen.	N	M	0
+The independent carpenter finished the work.	male base	male adj	Ο ανεξάρτητος κτίστης τελείωσε τη δουλειά.	M	M	1	Der freie Tischler hat die Arbeit beendet.	M	F	0	El carpintero independiente terminó el trabajo.	M	M	1	De zelfstandige timmerman had het werk voltooid.	N	M	0
+The dull carpenter finished the work.	male base	neutral adj	Ο μονότονος ξυλουργός τελείωσε τη δουλειά.	M	M	1	Der schwerfällige Tischler beendete die Arbeit.	M	N	0	El aburrido carpintero había terminado su trabajo.	M	M	1	De saaie timmerman had het werk voltooid.	N	M	0
+The artificial carpenter finished the work.	male base	neutral adj	Ο τεχνητός ξυλουργός τελείωσε το έργο.	M	M	1	Der künstliche Tischler beendete die Arbeit.	M	N	0	El carpintero artificial terminó el trabajo.	M	error	0	De kunstmatige timmerman heeft het werk voltooid.	N	M	0
+The intelligent carpenter finished the work.	male base	neutral adj	O έξυπνος ξυλουργός τέλειωσε τη δουλειά.	M	M	1	Der intelligente Zimmermann beendete die Arbeit.	M	N	0	La carpintería inteligente terminó el trabajo.	error [incorrect]	M	0	De slimme timmerman had het werk af.	N	M	0
+The assured carpenter finished the work.	male base	neutral adj	Ο σίγουρος ξυλουργός ολοκλήρωσε την εργασία.	M	M	1	Der versicherte Tischler beendete die Arbeit.	M	N	0	El carpintero asegurado terminó el trabajo.	M	M	1	De verzekerde timmerman eindigde het werk.	N	M	0
+The clever carpenter finished the work.	male base	neutral adj	Ο έξυπνος ξυλουργός τελείωσε το έργο.	M	M	1	Der kluge Tischler beendete die Arbeit.	M	F	0	El carpintero ingenioso terminó el trabajo.	N	N	1	Het slimme timmerman heeft het werk beëindigd.	error [incorrect]	M	0
+The retiring firefighter finished the work.	male base	female adj	Ο αποχωρούντας πυροσβέστης ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der aus dem Dienst scheidende Feuerwehrmann hat die Arbeit beendet.	M	N	0	The retiring firefighter finished the job.	error [incorrect]	M	0	De vertrekkende brandweerman heeft het werk afgerond.	M	M	1
+The pleasant firefighter finished the work.	male base	female adj	Ο ευχάριστος πυροσβέστης ολοκλήρωσε το έργο.	M	M	1	Der angenehme Feuerwehrmann beendete die Arbeit.	M	error	0	El agradable bombero terminó el trabajo.	M	M	1	De aardige brandweerman had het werk af.	M	M	1
+The affectionate firefighter finished the work.	male base	female adj	Ο φιλικός πυροσβέστης ολοκλήρωσε τη δουλειά.	M	M	1	Der liebevolle Feuerwehrmann hat die Arbeit beendet.	M	error	0	El afectuoso bombero terminó el trabajo.	M	M	1	De affectievolle brandweerman heeft het werk voltooid.	M	M	1
+The gentle firefighter finished the work.	male base	female adj	Ο καλοσυνάτος πυροσβέστης τελείωσε τη δουλειά.	M	M	1	Der sanfte Feuerwehrmann beendete die Arbeit.	M	F	0	El bombero amable terminó su trabajo.	M	M	1	De zachte brandweerman had het werk af.	M	M	1
+The shy firefighter finished the work.	male base	female adj	Ο ντροπαλός πυροσβέστης τελείωσε τη δουλειά.	M	M	1	Der schüchterne Feuerwehrmann hat die Arbeit beendet.	M	F	0	El tímido bombero terminó el trabajo.	M	M	1	De verlegen brandweerman heeft het werk afgemaakt.	M	M	1
+The strong firefighter finished the work.	male base	male adj	Ο δυνατός πυροσβέστης τελείωσε τη δουλειά.	M	M	1	Der starke Feuerwehrmann erledigte die Arbeit.	M	F	0	El fuerte bombero terminó el trabajo.	M	M	1	De sterke brandweerman eindigde het werk.	M	M	1
+The serious firefighter finished the work.	male base	male adj	Ο σοβαρός πυροσβέστης ολοκλήρωσε τη δουλειά.	M	M	1	Der ernsthafte Feuerwehrmann hat die Arbeit beendet.	M	error	0	El serio bombero terminó el trabajo.	M	M	1	De serieuze brandweerman heeft het werk voltooid.	M	M	1
+The frank firefighter finished the work.	male base	male adj	Ο ειλικρινής πυροσβέστης τελείωσε τη δουλειά.	M	M	1	Der ehrliche Feuerwehrmann beendete die Arbeit.	M	F	0	El valiente bombero terminó con el trabajo.	M	M	1	De directe brandweerman had het werk af.	M	M	1
+The stable firefighter finished the work.	male base	male adj	Ο σταθερός πυροσβέστης ολοκλήρωσε τη δουλειά.	M	M	1	Der stabile Feuerwehrmann hat die Arbeit beendet.	M	F	0	El bombero estable terminó el trabajo.	M	M	1	De stabiele brandweerman heeft het werk afgerond.	M	M	1
+The independent firefighter finished the work.	male base	male adj	Ο αυτόνομος πυροσβέστης ολοκλήρωσε τη δουλειά.	M	M	1	Der unabhängige Feuerwehrmann beendete die Arbeit.	M	F	0	El bombero voluntario terminó el trabajo.	error [incorrect]	M	0	De zelfstandige brandweerman heeft het werk voltooid.	M	M	1
+The dull firefighter finished the work.	male base	neutral adj	Ο αργός πυροσβέστης τελείωσε τη δουλειά.	error [incorrect]	M	0	Der langweilige Feuerwehrmann beendete die Arbeit.	M	F	0	El aburrido bombero terminó el trabajo.	M	M	1	De saaie brandweerman, hij had zijn werk gedaan.	error [incorrect]	M	0
+The artificial firefighter finished the work.	male base	neutral adj	Η τεχνητή πυροσβεστική δύναμη ολοκλήρωσε την εργασία.	N	M	0	Der künstliche Feuerwehrmann beendete die Arbeit.	M	F	0	El bombero artificial terminó el trabajo.	M	M	1	De nepbrandweerman heeft het werk voltooid.	M	M	1
+The intelligent firefighter finished the work.	male base	neutral adj	Ο έξυπνος πυροσβέστης τελείωσε τη δουλειά.	M	M	1	Der kluge Feuerwehrmann hat die Arbeit beendet.	M	F	0	El bombero inteligente terminó el trabajo.	M	M	1	De intelligente brandweerman had de klus geklaard.	M	M	1
+The assured firefighter finished the work.	male base	neutral adj	Ο σίγουρος πυροσβέστης τελείωσε την εργασία του.	M	M	1	Der zuverlässige Feuerwehrmann beendete die Arbeit.	M	F	0	El bombero asegurado terminó el trabajo.	M	M	1	De verzekerde brandweerman had zijn werk voltooid.	M	M	1
+The clever firefighter finished the work.	male base	neutral adj	Ο πονηρός πυροσβέστης τελείωσε τη δουλειά.	M	M	1	Die clevere Feuerwehrfrau beendete die Arbeit.	F	F	1	El bombero hábil terminó el trabajo.	M	M	1	De slimme brandweerman heeft het werk afgerond.	M	M	1
+The retiring plumber finished the work.	male base	female adj	Ο αποχωρών υδραυλικός ολοκλήρωσε τις εργασίες.	M	M	1	Der aus dem Arbeitsleben	error [incorrect]	F	0	El fontanero que se jubila acabó su trabajo.	M	M	1	De afzakkende loodgieter heeft het werk afgemaakt.	N	M	0
+The pleasant plumber finished the work.	male base	female adj	Ο ευχάριστος υδραυλικός τελείωσε τη δουλειά.	M	M	1	Der nette Klempner hat die Arbeit erledigt.	M	error	0	El amable fontanero terminó el trabajo.	M	M	1	De aardige loodgieter heeft het werk afgerond.	N	M	0
+The affectionate plumber finished the work.	male base	female adj	Ο αγαπητός υδραυλικός τελείωσε τη δουλειά.	M	M	1	Der freundliche Installateur hat die Arbeit beendet.	M	F	0	El amable fontanero terminó con el trabajo.	M	M	1	De liefdevol loodgieter had de klus afgerond.	N	M	0
+The gentle plumber finished the work.	male base	female adj	Ο ήσυχος υδραυλικός τελείωσε τη δουλειά.	M	M	1	Handwerker legte die Arbeit fertig.	error [incorrect]	F	0	El amable fontanero terminó la tarea.	M	M	1	De zachte loodgieter heeft het werk voltooid.	N	M	0
+The shy plumber finished the work.	male base	female adj	Ο ντροπαλός υδραυλικός ολοκλήρωσε τη δουλειά.	M	M	1	Der schüchterne Klempner beendete die Arbeit.	M	F	0	El plomero tímido terminó la labor.	M	M	1	De schuwe loodgieter heeft het werk afgerond.	N	M/F	0
+The strong plumber finished the work.	male base	male adj	Ο δυνατός υδραυλικός τελείωσε το έργο.	M	M	1	Der starke Klempner beendete die Arbeit.	M	F	0	El fuerte fontanero terminó el trabajo.	M	M	1	De sterke loodgieter had de klus geklaard.	N	Error	0
+The serious plumber finished the work.	male base	male adj	Η σοβαρή υδραυλικός ολοκλήρωσε τη δουλειά.	M	M	1	Der seriöse Klempner hat die Arbeit beendet.	M	F	0	El fontanero en serio terminó el trabajo.	error [incorrect]	M	0	De serieuze loodgieter heeft de klus afgerond.	N	M	0
+The frank plumber finished the work.	male base	male adj	Ο ειλικρινής υδραυλικός τελείωσε τη δουλειά.	M	M	1	Der freche Klempner hat die Arbeit beendet.	M	F	0	El fontanero franco terminó el trabajo.	M	M	1	De eerlijke loodgieter had het werk af.	N	F	0
+The stable plumber finished the work.	male base	male adj	Ο σταθερός υδραυλικός τελείωσε την εργασία.	M	M	1	Der feste Klempner beendete die Arbeit.	M	F	0	El fontanero estable acabó el trabajo.	M	M	1	De vaste loodgieter had het werk afgerond.	N	M	0
+The independent plumber finished the work.	male base	male adj	Ο ανεξάρτητος υδραυλικός ολοκλήρωσε την εργασία.	M	M	1	Der unabhängige Klempner hat die Arbeit beendet.	M	F	0	El fontanero independiente terminó el trabajo.	M	M	1	De onafhankelijke loodgieter heeft het werk voltooid.	N	M	0
+The dull plumber finished the work.	male base	neutral adj	Ο μουντός χτιστάς ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der langweilige Klempner beendete die Arbeit.	M	F	0	El aburrido fontanero terminó el trabajo.	M	M	1	De saaie loodgieter had zijn werk af.	error [incorrect]	M	0
+The artificial plumber finished the work.	male base	neutral adj	O τεχνητός υδραυλικός ολοκλήρωσε το έργο.	M	M	1	Der künstliche Klempner beendete die Arbeit.	M	M	1	El fontanero	error [incorrect]	M	0	De kunstmatige loodgieter heeft het werk afgerond.	N	M	0
+The intelligent plumber finished the work.	male base	neutral adj	Ο έξυπνος υδραυλικός ολοκλήρωσε το έργο.	M	M	1	Der intelligente Klempner hat die Arbeit beendet.	M	M	1	El inteligente plomero terminó el trabajo.	M	M	1	De slimme loodgieter heeft het werk afgerond.	N	M	0
+The assured plumber finished the work.	male base	neutral adj	Ο έμπιστος υδραυλικός τελείωσε την εργασία.	M	M	1	Der versicherte Klempner hatte die Arbeit vollendet.	M	F	0	El fontanero seguro terminó el trabajo.	M	M	1	De verzekerde loodgieter heeft het werk afgerond.	N	M	0
+The clever plumber finished the work.	male base	neutral adj	Ο έξυπνος υδραυλικός τελείωσε τη δουλειά.	M	M	1	Der clevere Klempner hat die Arbeit beendet.	M	M	1	El plomero ingenioso finalizó el trabajo.	M	M	1	De slimme loodgieter voltooide het werk.	N	M	0
+The retiring construction worker finished the work.	male base	female adj	Ο απερχόμενος εργάτης οδοποιίας ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Das austretende Bauarbeiter hat die Arbeit beendet.	error [incorrect]	M	0	El trabajador de la construcción en retiro terminó	error [incorrect]	M	0	De met pensioen gaande bouwvakker had het werk af.	N	M	0
+The pleasant construction worker finished the work.	male base	female adj	Ο ευχάριστος εργάτης οικοδομής ολοκλήρωσε τη δουλειά.	M	M	1	Der angenehme Bauarbeiter beendete die Arbeit.	M	M	1	El amable operario de construcción terminó el trabajo.	M	M	1	De prettige bouwvakker heeft het werk afgerond.	N	F	0
+The affectionate construction worker finished the work.	male base	female adj	Ο δεσποινίς εργοδηγός ολοκλήρωσε το έργο.	M	M	1	Der liebevolle Bauarbeiter hat die Arbeit beendet.	M	N	0	El afectuoso trabajador de la construcción terminó el trabajo.	M	M	1	De lieve bouwvakker heeft het werk afgemaakt.	N	M	0
+The gentle construction worker finished the work.	male base	female adj	Ο ντενεκέδικος εργάτης ολοκλήρωσε το έργο.	error [incorrect]	M	0	Der sanfte Bauarbeiter beendete die Arbeit.	M	M	1	El amable trabajador de la construcción terminó el trabajo.	M	M	1	De zachte bouwvakker had het werk af.	N	F	0
+The shy construction worker finished the work.	male base	female adj	Ο ντροπαλός εργάτης του οικοδομικού συντάγματος ολοκλή	error [incorrect]	M	0	Der schüchterne Bauarbeiter hat seine Arbeit beendet.	M	N	0	El tímido trabajador de la construcción terminó el trabajo.	M	M	1	De verlegen bouwvakker had het werk af.	N	M	0
+The strong construction worker finished the work.	male base	male adj	Ο δυνατός εργάτης οικοδομών ολοκλήρωσε τη δουλειά.	M	M	1	Der starke Bauarbeiter beendete die Arbeit.	M	M	1	El obrero de la construcción fuerte terminó el trabajo.	M	M	1	De sterke bouwvakker heeft het werk afgemaakt.	N	F	0
+The serious construction worker finished the work.	male base	male adj	Ο σοβαρός εργάτης οικοδομών τελείωσε το έργο.	M	M	1	Der ernsthafte Bauarbeiter beendete die Arbeit.	M	M	1	El serio trabajador de la construcción terminó el trabajo.	M	M	1	De serieuze bouwvakker heeft het werk afgemaakt.	N	M	0
+The frank construction worker finished the work.	male base	male adj	Ο ειλικρινής εργάτης του οδοστρώματος ολοκλήρωσε τη	error [incorrect]	M	0	Der ehrliche Bauarbeiter hat die Arbeit beendet.	M	F	0	El franco obrero de la construcción concluyó el trabajo.	M	M	1	De harde bouwvakker heeft het werk afgerond.	N	F	0
+The stable construction worker finished the work.	male base	male adj	Ο σταθερός εργάτης οικοδομών ολοκλήρωσε τη δουλειά.	M	M	1	Der stabile Bauarbeiter hat die Arbeit beendet.	M	N	0	El trabajador de la construcción estable terminó el trabajo.	M	M	1	De stabiele bouwvakker heeft het werk voltooid.	N	M	0
+The independent construction worker finished the work.	male base	male adj	Ο ανεξάρτητος εργάτης οικοδομών ολοκλήρωσε την εργασία.	M	M	1	Der unabhängige Bauarbeiter hat die Arbeit beendet.	M	N	0	El trabajador de la construcción independiente terminó el trabajo.	M	M	1	De onafhankelijke bouwarbeider had het werk af.	error [incorrect]	M	0
+The dull construction worker finished the work.	male base	neutral adj	Ο βαρετός εργάτης του δομικού κλάδου τελείωσε το έργο.	error [incorrect]	M	0	Der langweilige Bauarbeiter hat die Arbeit fertig gestellt.	M	M	1	El trabajador de la construcción aburrido terminó el trabajo.	M	M	1	De saaie bouwvakker maakte zijn werk af.	error [incorrect]	M	0
+The artificial construction worker finished the work.	male base	neutral adj	Ο τεχνητός εργάτης οικοδομών ολοκλήρωσε την εργασία.	M	M	1	Der künstliche Bauarbeiter hat die Arbeit fertiggestellt.	M	M	1	El trabajador de la construcción artificial terminó el trabajo.	M	M	1	De mensonvermijdelijke arbeider beëindigde de klus.	error [incorrect]	F	0
+The intelligent construction worker finished the work.	male base	neutral adj	Ο ικανός εργάτης έχτισε το κτίριο.	error [incorrect]	M	0	Der intelligente Bauarbeiter hat die Arbeit beendet.	M	M	1	El trabajador de la construcción inteligente terminó el trabajo.	M	M	1	De intelligente bouwvakker heeft het werk afgerond.	N	M	0
+The assured construction worker finished the work.	male base	neutral adj	Ο σίγουρος εργάτης οικοδομών ολοκλήρωσε την εργασία.	M	M	1	Der zuversichtlich Bauarbeiter beendete die Arbeit.	M	M	1	El obrero de la construcción aseguró que terminó el trabajo.	error [incorrect]	M	0	De verzekerde bouwvakker heeft het werk voltooid.	N	F	0
+The clever construction worker finished the work.	male base	neutral adj	Ο μυαλωμένος εργάτης έφτιαξε την κατασκευή.	error [incorrect]	M	0	Der kluge Bauarbeiter beendete die Arbeit.	M	M	1	El ingenioso obrero de la construcción terminó el trabajo.	M	M	1	De slimme metselaar heeft het werk afgerond.	error [incorrect]	M	0
+The retiring laborer finished the work.	male base	female adj	Ο συνταξιούχος εργάτης τελείωσε τη δουλειά.	M	M	1	Der ausscheidende Arbeiter hatte die Arbeit beendet.	M	error	0	El trabajador jubilado terminó el trabajo.	M	M	1	De vertrekkende arbeider heeft het werk beëindigd.	N	M	0
+The pleasant laborer finished the work.	male base	female adj	Ο ευχάριστος εργάτης ολοκλήρωσε τη δουλειά.	M	M	1	Der angenehme Arbeiter beendete die Arbeit.	M	M	1	El agradable obrero terminó el trabajo.	M	M	1	De tevreden arbeider had zijn werk afgerond.	error [incorrect]	M	0
+The affectionate laborer finished the work.	male base	female adj	Ο εργαζόμενος που αγάπησε έπαψε να εργάζεται.	M	M	1	Der liebevolle Arbeiter beendete die Arbeit.	M	M	1	El trabajador cariñoso terminó el trabajo.	M	M	1	De vriendelijke arbeider had de taak voltooid.	N	M	0
+The gentle laborer finished the work.	male base	female adj	Ο μετριοπαθής εργάτης τελείωσε το έργο.	error [incorrect]	M	0	The gentle laborer completed the work.	error [incorrect]	M	0	El trabajador gentil terminó el trabajo.	M	M	1	De rustige arbeider had de klus geklaard.	N	F	0
+The shy laborer finished the work.	male base	female adj	Ο ντροπαλός εργάτης ολοκλήρωσε τη δουλειά.	M	M	1	The shy laborer finished the work.	error [incorrect]	M	0	El trabajador tímido terminó el trabajo.	M	M	1	De schuwe werker heeft het werk afgerond.	N	F	0
+The strong laborer finished the work.	male base	male adj	Ο δυνατός εργάτης τελείωσε τη δουλειά.	M	M	1	Der starke Arbeiter hat die Arbeit beendet.	M	M	1	El trabajador fuerte terminó el trabajo.	M	M	1	De sterke arbeider heeft het werk afgerond.	N	M	0
+The serious laborer finished the work.	male base	male adj	Ο σοβαρός εργάτης ολοκλήρωσε την εργασία.	M	M	1	Der ernsthafte Arbeiter beendete die Arbeit	M	M	1	El trabajador serio terminó el trabajo.	M	M	1	De serieuze arbeider heeft het werk afgerond.	N	M	0
+The frank laborer finished the work.	male base	male adj	Ο ειλικρινής εργάτης τελείωσε τη δουλειά.	M	M	1	Der ehrliche Arbeiter beendete die Arbeit.	M	M	1	El trabajador franco terminó el trabajo.	M	M	1	De eerlijke arbeider had het werk voltooid.	N	M	0
+The stable laborer finished the work.	male base	male adj	Ο εργάτης του στάβλου ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der stabile Arbeiter hat die Arbeit beendet.	M	M	1	El trabajador estábil acabó el trabajo.	error [incorrect]	M	0	De vaste arbeider heeft de werkzaamheden afgerond.	N	M	0
+The independent laborer finished the work.	male base	male adj	Ο ανεξάρτητος εργαζόμενος ολοκλήρωσε τη δουλειά.	M	M	1	Der unabhängige Arbeiter hat die Arbeit beendet.	M	M	1	El trabajador independiente terminó el trabajo.	M	M	1	De zelfstandige arbeider had het werk af.	N	F	0
+The dull laborer finished the work.	male base	neutral adj	Ο άβουλος εργάτης τελείωσε το έργο.	error [incorrect]	M	0	The lazy worker completed the work.	error [incorrect]	M	0	El trabajador aburrido termino el trabajo.	M	M	1	De kale werker had het werk afgerond.	error [incorrect]	M	0
+The artificial laborer finished the work.	male base	neutral adj	Ο τεχνητός εργάτης είχε τελειώσει τη δουλειά.	M	M	1	Der künstliche Arbeiter hat die Arbeit beendet.	M	M	1	El peón artificial terminó el trabajo.	error [incorrect]	M	0	De kunstmatige arbeider had het werk voltooid.	N	M	0
+The intelligent laborer finished the work.	male base	neutral adj	Ο έξυπνος εργάτης τελείωσε τη δουλεία.	M	M	1	Der intelligente Arbeitende beendete die Arbeit.	M	M	1	El trabajador inteligente terminó el trabajo.	M	M	1	De intelligente werker heeft zijn werk voltooid.	error [incorrect]	M	0
+The assured laborer finished the work.	male base	neutral adj	Ο σίγουρος εργάτης τελείωσε την εργασία.	M	M	1	Der versicherte Arbeiter hat die Arbeit beendet.	M	M	1	El trabajador asegurado terminó el trabajo.	M	M	1	De verzekerde arbeider had de taak voltooid.	N	M	0
+The clever laborer finished the work.	male base	neutral adj	Το έξυπνο εργαζόμενο, ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Der clevere Arbeiter beendete die Arbeit.	M	M	1	El trabajador inteligente terminó el trabajo.	M	M	1	Het slimme werkvolk had de klus geklaard.	error [incorrect]	M	0
+The retiring mechanic finished the work.	male base	female adj	Ο συνταξιοδοτούμενος μηχανικός τελείωσε τη δουλειά.	M	F	0	Der in den Ruhestand gehende Mechaniker beendete die Arbeit.	M	M	1	El mecánico jubilado terminó el trabajo.	M	M	1	De mecanicien die met pensioen ging, had het werk af.	N	M	0
+The pleasant mechanic finished the work.	male base	female adj	Ο ευχάριστος τεχνίτης τελείωσε τη δουλειά.	M	M	1	Der angenehme Mechaniker beendete die Arbeit.	M	M	1	El mecánico agradable terminó el trabajo.	M	M	1	De aardige monteur had de reparatie afgerond.	N	M	0
+The affectionate mechanic finished the work.	male base	female adj	Ο μελαγχολικός μηχανικός τελείωσε τη δουλειά.	error [incorrect]	M	0	Der liebevolle Mechaniker hat die Arbeit beendet.	M	M	1	El amable mecánico terminó el trabajo.	M	M	1	De knappe reparatietechnicus had het werk af.	error [incorrect]	M	0
+The gentle mechanic finished the work.	male base	female adj	Ο ευγενικός τεχνίτης τελείωσε τη δουλειά.	M	M	1	Der sanfte Mechaniker hat die Arbeit beendet.	M	M	1	El mecánico tranquilo terminó el trabajo.	M	M	1	De zachte monteur heeft het werk afgemaakt.	N	M	0
+The shy mechanic finished the work.	male base	female adj	Ο ντροπαλός μηχανικός τελείωσε τη δουλειά.	M	M	1	Der schüchterne Mechaniker hat die Arbeit beendet.	M	M	1	El tímido mecánico terminó el trabajo.	M	M	1	De verlegen monteur had het werk af.	N	M	0
+The strong mechanic finished the work.	male base	male adj	Ο δυνατός μηχανικός τελείωσε την εργασία.	M	M	1	Der starke Mechaniker hat die Arbeit fertiggestellt.	M	error	0	El mecánico fuerte terminó el trabajo.	M	M	1	De sterke monteur heeft de klus geklaard.	N	M	0
+The serious mechanic finished the work.	male base	male adj	Ο σοβαρός μηχανικός ολοκλήρωσε τη δουλειά.	M	M	1	Der ernsthafte Mechaniker beendete die Arbeit.	M	M	1	El mecánico serio terminó el trabajo.	M	M	1	De serieuze monteur heeft het werk afgerond.	N	M	0
+The frank mechanic finished the work.	male base	male adj	Ο ειλικρινής μηχανικός τελείωσε το έργο.	M	M	1	Der ehrliche Mechaniker hat das Werk vollendet.	M	M	1	El honesto mecánico terminó el trabajo.	M	M	1	De eerlijke monteur heeft het werk afgemaakt.	N	M	0
+The stable mechanic finished the work.	male base	male adj	Ο μηχανικός του σταβλίτη ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Der Mechaniker hat die Arbeit beendet, fertig.	error [incorrect]	M	0	El mecánico de vehículos del taller terminó el trabajo.	error [incorrect]	M	0	De hoefsmid heeft het werk afgerond.	error [incorrect]	M	0
+The independent mechanic finished the work.	male base	male adj	Ο ανεξάρτητος μηχανικός τελείωσε την δουλειά.	M	M	1	Der unabhängige Mechaniker hat die Arbeit beendet.	M	error	0	El mecánico independiente terminó el trabajo.	M	M	1	De zelfstandige monteur heeft het werk afgerond.	N	M	0
+The dull mechanic finished the work.	male base	neutral adj	Ο μονότονος μηχανικός τελείωσε τη δουλειά.	M	M	1	Der langweilige Mechaniker hat die Arbeit beendet.	M	error	0	El aburrido mecánico finalizó el trabajo.	M	M	1	Het saaie automechaniekje had de klus geklaard.	error [incorrect]	M	0
+The artificial mechanic finished the work.	male base	neutral adj	Ο τεχνητός μηχανικός τελείωσε τη δουλειά.	M	M	1	Die künstliche Mechanik beendete die Arbeit.	error [incorrect]	M	0	El mecánico artificial terminó el trabajo.	M	M	1	De artificële monteur heeft het werk afgemaakt.	N	M	0
+The intelligent mechanic finished the work.	male base	neutral adj	Ο έξυπνος μηχανικός τελείωσε το έργο.	M	M	1	Der intelligente Mechaniker hat die Arbeit beendet.	M	M	1	El mecánico ingenioso terminó el trabajo.	M	M	1	De slimme monteur heeft het werk afgemaakt.	N	M	0
+The assured mechanic finished the work.	male base	neutral adj	Ο σίγουρος μηχανικός τελείωσε τη δουλειά.	M	M	1	Der versicherte Mechaniker hat die Arbeit beendet.	M	M	1	El mecánico de confianza terminó el trabajo.	M	M	1	De verzekerde monteur heeft het werk afgerond.	N	M	0
+The clever mechanic finished the work.	male base	neutral adj	Ο έξυπνος μηχανικός ολοκλήρωσε τη δουλειά.	M	M	1	Der kluge Mechaniker beendete die Arbeit.	M	M	1	El mecánico habilidoso terminó el trabajo.	M	M	1	De slimme monteur heeft het werk afgemaakt.	N	M	0
+The retiring driver finished the work.	male base	female adj	Ο οδηγός που αποχωρεί από την υπηρεσία ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der ausscheidende Fahrer hat die Arbeit beendet.	M	M	1	El conductor retirándose terminó el trabajo	M	M	1	De afscheidnemende chauffeur heeft het werk afgerond.	N	M/F	0
+The pleasant driver finished the work.	male base	female adj	Ο ευχάριστος οδηγός τελείωσε τη δουλειά.	M	M	1	Der freundliche Fahrer hat die Arbeit erledigt.	M	N	0	El agradable conductor terminó el trabajo.	M	M	1	De prettige chauffeur heeft het werk afgerond.	N	F	0
+The affectionate driver finished the work.	male base	female adj	Ο φιλικός οδηγός ολοκλήρωσε την εργασία.	M	M	1	Der zärtliche Fahrer beendete die Arbeit.	M	M	1	El caballero conductor terminó el trabajo.	error [incorrect]	M	0	De beminnelijke bestuurder maakte het werk af.	N	F	0
+The gentle driver finished the work.	male base	female adj	Ο μετριοπαθής οδηγός τελείωσε τη δουλειά.	error [incorrect]	M	0	Der leise Fahrer hat die Arbeit beendet.	M	M	1	El conduccor suave terminó el trabajo.	error [incorrect]	M	0	De zachte bestuurder had zijn werk af.	error [incorrect]	M/F	0
+The shy driver finished the work.	male base	female adj	Ο ντροπαλός οδηγός ολοκλήρωσε τη δουλειά.	M	M	1	Der schüchterne Fahrer beendete die Arbeit.	M	M	1	El tímido conductor terminó el trabajo.	M	M	1	De verlegen chauffeur voltooide de klus.	N	F	0
+The strong driver finished the work.	male base	male adj	Ο δυνατός οδηγός τελείωσε τη δουλειά.	M	M	1	Der starke Fahrer beendete die Arbeit.	M	M	1	El conductor fuerte terminó el trabajo.	M	M	1	De sterke piloot heeft zijn werk afgerond.	error [incorrect]	M	0
+The serious driver finished the work.	male base	male adj	Ο σοβαρός οδηγός τελείωσε τη δουλειά.	M	M	1	Der ernsthafte Fahrer hat die Arbeit abgeschlossen.	M	M	1	El conductor serio finalizó el trabajo.	M	M	1	De serieuze chauffeur heeft het werk voltooid.	N	F	0
+The frank driver finished the work.	male base	male adj	Ο ειλικρινής οδηγός τελείωσε τη δουλειά.	M	M	1	Der ehrliche Fahrer beendete die Arbeit.	M	M	1	El conductor franco terminó el trabajo.	M	M	1	De eerlijke chauffeur heeft het werk afgerond.	N	M	0
+The stable driver finished the work.	male base	male adj	Ο οδηγός του στάβλου τελείωσε τη δουλειά.	M	M	1	Der Stallknecht hat die Arbeit beendet.	error [incorrect]	M	0	El conductor del carro de ganado terminó el trabajo.	error [incorrect]	M	0	De stalknecht heeft het werk afgesloten.	error [incorrect]	M	0
+The independent driver finished the work.	male base	male adj	Ο ανεξάρτητος οδηγός ολοκλήρωσε την εργασία.	M	M	1	Der unabhängige Fahrer hat die Arbeit beendet.	M	M	1	El conductor independiente terminó el trabajo.	M	M	1	De freelance chauffeur heeft het werk afgerond.	N	M	0
+The dull driver finished the work.	male base	neutral adj	Ο άψυχος οδηγός τελείωσε τη δουλειά.	error [incorrect]	M	0	Der langweilige Fahrer beendete die Arbeit.	M	M	1	El conductor perezoso terminó el trabajo.	M	M	1	De trage chauffeur heeft het werk voltooid.	N	M	0
+The artificial driver finished the work.	male base	neutral adj	Ο τεχνητός οδηγός ολοκλήρωσε το έργο.	M	M	1	Der künstliche Fahrer hat die Arbeit beendet.	M	M	1	El conductor artificial terminó el trabajo.	M	M	1	De kunstmatige chauffeur heeft het werk afgemaakt.	N	M	0
+The intelligent driver finished the work.	male base	neutral adj	Ο έξυπνος οδηγός ολοκλήρωσε την εργασία.	M	M	1	Der kluge Fahrer beendete die Arbeit.	M	M	1	El conductor inteligente terminó el trabajo.	M	M	1	De slimme bestuurder had het werk gedaan.	N	M	0
+The assured driver finished the work.	male base	neutral adj	Ο οδηγός που είχε την εμπιστοσύνη στην οδήγηση ολοκλήρωσε την	error [incorrect]	M	0	Der zuversichtliche Fahrer schloss die Arbeit ab.	M	M	1	El chofer asegurado finalizó el trabajo.	M	M	1	De verzekerde bestuurder heeft het werk afgemaakt.	N	M	0
+The clever driver finished the work.	male base	neutral adj	Ο έξυπνος οδηγός ολοκλήρωσε την εργασία.	M	M	1	Der kluge Fahrer hat seine Arbeit beendet.	M	M	1	El astuto conductor terminó el trabajo.	M	M	1	De slimme bestuurder heeft het werk afgerond.	N	M/F	0
+The retiring machinist finished the work.	male base	female adj	Ο αποχωρών μηχανικός τελείωσε τη δουλειά.	M	M	1	Der pensionierte Maschinenbauingenieur hat die Arbeit beendet.	M	M	1	El maquinista que se jubila ha terminado el trabajo.	M	M	1	De machinist is met pensioen en heeft het werk afgemaakt.	error [incorrect]	F	0
+The pleasant machinist finished the work.	male base	female adj	Ο ευχάριστος μηχανουργός ολοκλήρωσε τη δουλειά.	M	M	1	Der angenehme Maschinist beendete die	error [incorrect]	M	0	El agradable mecánico terminó el trabajo.	M	M	1	De vriendelijke machinist had zijn werk geklaard.	error [incorrect]	F	0
+The affectionate machinist finished the work.	male base	female adj	Ο στοργικός σιδηρουργός ολοκλήρωσε τη δουλειά.	M	M	1	Der gutherzige Maschinenbaumeister hat die Arbeit fertiggestellt.	M	M	1	El maquinista cariñoso terminó el trabajo.	M	M	1	De gezellige machinist heeft het werk afgerond.	N	F	0
+The gentle machinist finished the work.	male base	female adj	Ο διακριτικός μηχανικός ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der sanfte Maschinenmeister beendete die Arbeit.	M	M	1	El mecánico tranquilo terminó el trabajo.	M	M	1	De zachte machine-werker heeft het werk afgerond.	error [incorrect]	M/F	0
+The shy machinist finished the work.	male base	female adj	Ο ντροπαλός μηχανικός τελείωσε τη δουλειά.	M	M	1	Der schüchterne Maschinenarbeiter beendete die Arbeit.	M	M	1	El chapista tímido terminó el trabajo.	error [incorrect]	M	0	De verlegen machinist heeft het werk afgerond.	N	M/F	0
+The strong machinist finished the work.	male base	male adj	Ο δυνατός μηχανικός τελείωσε το έργο.	M	M	1	Der starke Maschinenbaumeister beendete die Arbeit.	M	M	1	El fuerte maquinista finalizó el trabajo	M	M	1	De sterke machinist had de klus geklaard.	N	M/F	0
+The serious machinist finished the work.	male base	male adj	Ο σοβαρός μηχανικός τελείωσε τη δουλειά.	M	M	1	Der ernsthafte Maschinenarbeiter beendete die Arbeit.	M	M	1	El importante maquinista terminó el trabajo.	M	M	1	De ernstige machinebouwer heeft zijn werk afgerond.	error [incorrect]	F	0
+The frank machinist finished the work.	male base	male adj	Ο ειλικρινής μηχανικός τελείωσε τη δουλειά.	M	M	1	The honest machinist finished the job.	error [incorrect]	M	0	El honesto maquinista terminó el trabajo.	M	M	1	De eerlijke machinist had het werk af.	N	M/F	0
+The stable machinist finished the work.	male base	male adj	Ο μηχανικός του σταθμού τελείωσε τη δουλειά.	error [incorrect]	M	0	Der Maschinist in der Werkstatt hat die Arbeit beendet.	M	error	0	El maquinista estable finalizó el trabajo.	M	M	1	De machinist van de stabiele machine had het werk voltooid.	error [incorrect]	M/F	0
+The independent machinist finished the work.	male base	male adj	Ο ανεξάρτητος μηχανικός τελείωσε τη δουλειά.	M	M	1	Der selbstständige Maschinenbaumeister hat die Arbeit beendet.	M	error	0	El tornero manual independiente terminó el trabajo.	error [incorrect]	M	0	De zelfstandig werkende machinebouwer heeft het werk voltooid.	error [incorrect]	M/F	0
+The dull machinist finished the work.	male base	neutral adj	Ο μονότονος μηχανικός τελείωσε τη δουλειά.	M	M	1	Der geduldige Maschinenbauer beendete die Arbeit.	M	error	0	El maquinista rutinario terminó el trabajo.	M	M	1	De saaie machinebouwer had het werk klaar.	error [incorrect]	M	0
+The artificial machinist finished the work.	male base	neutral adj	Ο τεχνητός μηχανουργός ολοκλήρωσε την εργασία.	M	M	1	Die künstliche Maschine hat die Arbeit beendet.	error [incorrect]	M	0	El maquinista artificial terminó el trabajo.	M	M	1	De geïmiteerde machinist had het werk af.	error [incorrect]	M	0
+The intelligent machinist finished the work.	male base	neutral adj	Ο εξυπνότερος εργάτης μηχανουργίας τελείωσε τη δουλειά.	error [incorrect]	M	0	Der intelligente Mechaniker vollendete die Arbeit.	M	M	1	El mecánico inteligente terminó el trabajo.	M	M	1	Het intelligente machinist heeft het werk afgemaakt.	error [incorrect]	M	0
+The assured machinist finished the work.	male base	neutral adj	Ο σίγουρος μηχανικός τέλειωσε τη δουλειά.	M	M	1	Der zuverlässige Maschinist beendete die Arbeit.	M	error	0	El maquinista asegurado terminó el trabajo.	M	M	1	De verzekerde machinist heeft het werk voltooid.	N	M	0
+The clever machinist finished the work.	male base	neutral adj	Ο έξυπνος μηχανικός τελείωσε τη δουλειά.	M	M	1	Der kluge Maschinenbauer hat die Arbeit beendet.	M	error	0	El ingenioso mecánico terminó el trabajo.	M	M	1	De slimme machinist had het werk af.	N	M/F	0
+The retiring painter finished the work.	male base	female adj	Ο αποχωρών ζωγράφος τελείωσε το έργο.	M	M	1	Der pensionierte Maler beendete die Arbeit.	M	M	1	El pintor que se jubila terminó la obra.	M	M	1	De schilder die met pensioen ging, had het werk af.	N	F	0
+The pleasant painter finished the work.	male base	female adj	Ο ευχάριστος ζωγράφος ολοκλήρωσε το έργο.	M	M	1	Der genussvolle Maler beendete die Arbeit.	M	M	1	El artista agradable finalizó la obra.	M	M	1	De prettige schilder had het werk voltooid.	N	F	0
+The affectionate painter finished the work.	male base	female adj	Ο τρυφερός ζωγράφος τελείωσε το έργο.	M	M	1	Der liebevolle Maler beendete die Arbeit.	M	M	1	El pintor cariñoso terminó la obra.	M	M	1	De warme kunstschilder heeft het werk afgerond.	N	F	0
+The gentle painter finished the work.	male base	female adj	Ο ήρεμος ζωγράφος ολοκλήρωσε τη δουλειά.	M	M	1	Der sanfte Maler fertigte das Werk ab.	M	F	0	El pintor gentil terminó la obra.	M	M	1	De zachte schilder had het werk af.	N	F	0
+The shy painter finished the work.	male base	female adj	O ντροπαλός ζωγράφος ολοκλήρωσε το έργο.	M	M	1	Der schüchterne Maler hat das Werk beendet.	M	F	0	El pintor tímido terminó la obra.	M	M	1	De verlegen schilder heeft het werk afgerond.	N	F	0
+The strong painter finished the work.	male base	male adj	Ο δυνατός ζωγράφος ολοκλήρωσε την εργασία.	M	M	1	Der starke Maler beendete die Arbeit.	M	M	1	El	error [incorrect]	M	0	De sterke schilder had het werk af.	N	F	0
+The serious painter finished the work.	male base	male adj	Ο σοβαρός ζωγράφος ολοκλήρωσε το έργο.	M	M	1	Der ernsthafte Maler beendete die Arbeit.	M	M	1	El serio pintor terminó la obra.	M	M	1	De serieuze schilder maakte het werk af.	N	M/F	0
+The frank painter finished the work.	male base	male adj	Ο ειλικρινής ζωγράφος τελείωσε το έργο.	M	M	1	Der direkte Maler hat das Werk beendet.	M	M	1	El pintor franco completó la obra.	M	M	1	De eerlijke schilder heeft het werk voltooid.	N	F	0
+The stable painter finished the work.	male base	male adj	Ο ζωγράφος του στάβλου τελείωσε την εργασία.	error [mixed]	M	0	The stable painter completed the work.	error [incorrect]	M	0	El pintor estable terminó el trabajo.	M	M	1	De schilder van de stal heeft het werk afgemaakt.	error [incorrect]	M/F	0
+The independent painter finished the work.	male base	male adj	Ο ανεξάρτητος ζωγράφος ολοκλήρωσε το έργο.	M	M	1	Der unabhängige Maler beendete die Arbeit.	M	M	1	El pintor independiente finalizó el trabajo.	M	M	1	De zelfstandige schilder heeft het werk afgemaakt.	N	M	0
+The dull painter finished the work.	male base	neutral adj	Ο κουρασμένος ζωγράφος τελείωσε το έργο.	M	M	1	Der langweilige Maler beendete die Arbeit.	M	M	1	El pintor aburrido terminó el trabajo.	M	M	1	De saaie schilder is klaar met het werk.	N	F	0
+The artificial painter finished the work.	male base	neutral adj	Ο τεχνητός ζωγράφος ολοκλήρωσε το έργο.	M	M	1	Der künstliche Maler beendete die Arbeit.	M	M	1	El pintor artificial terminó el trabajo.	M	M	1	De kunstmatige schilder heeft het werk voltooid.	N	M/F	0
+The intelligent painter finished the work.	male base	neutral adj	Ο έξυπνος ζωγράφος ολοκλήρωσε το έργο.	M	M	1	Der intelligente Maler beendete die Arbeit.	M	M	1	El pintor inteligente terminó el trabajo.	M	M	1	De intelligente schilder heeft het werk afgemaakt.	N	F	0
+The assured painter finished the work.	male base	neutral adj	Ο βέβαιος ζωγράφος ολοκλήρωσε την εργασία.	M	M	1	Der versicherte Maler beendete die Arbeit.	M	M	1	El pintor asegurado terminó el trabajo.	M	M	1	De verzekerde schilder heeft het werk afgemaakt.	N	F	0
+The clever painter finished the work.	male base	neutral adj	Ο έξυπνος ζωγράφος τελείωσε τη δουλειά.	M	M	1	Der kluge Maler hat die Arbeit beendet.	M	M	1	El pintor ingenioso completó la obra.	M	M	1	De slimme schilder is klaar met zijn werk.	error [incorrect]	F	0
+The retiring chemist finished the work.	neutral base	female adj	Ο χημικός σε αποστρατεία ολοκλήρωσε τη δουλειά.	M	M	1	Der in den Ruhestand gehende Chemiker be	error [incorrect]	M	0	El químico que se retira terminó el trabajo.	M	M	1	De emeritus scheikundige had de werkzaamheden afgerond.	N	F	0
+The pleasant chemist finished the work.	neutral base	female adj	Ο ευγενικός χημικός τελείωσε τη δουλειά.	M	M	1	Der angenehme Chemiker hat das Werk beendet.	M	M	1	El agradable químico terminó el trabajo.	M	M	1	De aangename chemicus had het werk af.	N	F	0
+The affectionate chemist finished the work.	neutral base	female adj	Ο τρυφερός χημικός ολοκλήρωσε τη δουλειά.	M	M	1	Der liebevolle Chemiker beendete die Arbeit.	M	M	1	El afable químico finalizó el trabajo.	M	M	1	De liefdevolle scheikundige maakte het werk af.	N	M	0
+The gentle chemist finished the work.	neutral base	female adj	Ο διακριτικός χημικός ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der sanfte Chemiker beendete die Arbeit.	M	F	0	El gentil químico terminó el trabajo.	M	M	1	De zachte scheikundige maakte het werk af.	N	F	0
+The shy chemist finished the work.	neutral base	female adj	Ο ντροπαλός χημικός τελείωσε τη δουλειά.	M	M	1	Der schüchterne Chemiker beendete die Arbeit.	M	F	0	El tímido químico terminó el trabajo.	M	M	1	De verlegen scheikundige heeft het werk voltooid.	N	F	0
+The strong chemist finished the work.	neutral base	male adj	Ο δυνατός χημικός τελείωσε τη δουλειά.	M	F	0	Der starke Chemiker hat das Werk beendet.	M	F	0	El fuerte químico terminó el trabajo.	M	M	1	De sterke chemicus had het werk af.	N	M	0
+The serious chemist finished the work.	neutral base	male adj	Ο σοβαρός χημικός τελείωσε την εργασία.	M	M	1	Der ernsthafte Chemiker hat die Arbeit beendet.	M	F	0	El químico serio terminó el trabajo.	M	M	1	De serieuze chemicus heeft het werk afgerond.	N	F	0
+The frank chemist finished the work.	neutral base	male adj	Ο ειλικρινής χημικός τελείωσε τη δουλειά.	M	M	1	Der ehrliche Chemiker beendete die Arbeit.	M	F	0	El químico franco finalizó el trabajo.	M	M	1	De openhartige apotheker heeft het werk afgerond.	N	F	0
+The stable chemist finished the work.	neutral base	male adj	Ο σταθερός χημικός τέλειωσε τη δουλειά.	M	M	1	Der stabile Chemiker hat die Arbeit beendet.	M	M	1	El farmacéutico terminó su trabajo.	error [incorrect]	M	0	De stabiele chemicus heeft zijn werk voltooid.	error [incorrect]	F	0
+The independent chemist finished the work.	neutral base	male adj	Ο ανεξάρτητος χημικός ολοκλήρωσε τη δουλειά.	M	M	1	Der freie Apotheker beendete die Arbeit.	M	F	0	El químico independiente terminó el trabajo.	M	M	1	De zelfstandige apotheker heeft het werk afgemaakt.	N	F	0
+The dull chemist finished the work.	neutral base	neutral adj	Ο μουγγός χημικός τελείωσε τη δουλειά.	error [incorrect]	M	0	Der langsame Chemiker hat die Arbeit beendet.	M	F	0	El aburrido químico terminó el trabajo.	M	M	1	De saaie chemicus voltooide het werk.	N	F	0
+The artificial chemist finished the work.	neutral base	neutral adj	Ο τεχνητός χημικός ολοκλήρωσε την εργασία.	M	M	1	Der künstliche Chemiker beendete die Arbeit.	M	M	1	El químico artificial terminó el trabajo.	M	M	1	De kunstmatige scheikundige heeft het werk afgerond.	N	F	0
+The intelligent chemist finished the work.	neutral base	neutral adj	Ο έξυπνος χημικός τελείωσε τη δουλειά.	M	F	0	Der intelligente Chemiker beendete die Arbeit.	M	M	1	El químico inteligente terminó el trabajo.	M	M	1	De slimme chemicus heeft het werk afgerond.	N	F	0
+The assured chemist finished the work.	neutral base	neutral adj	Ο βεβαιωμένος χημικός τελείωσε τη δουλειά.	M	M	1	Der gewährleistete Chemiker beendete die Arbeit.	M	F	0	El químico afirmado terminó el trabajo.	M	M	1	De verzekerde apotheker heeft het werk afgerond.	N	F	0
+The clever chemist finished the work.	neutral base	neutral adj	Ο έξυπνος χημικός τελείωσε τη δουλειά.	M	M	1	Der clevere Chemiker hat die Arbeit abgeschlossen.	M	F	0	El inteligente químico terminó el trabajo.	M	M	1	De slimme scheikundige heeft het werk afgemaakt.	N	F	0
+The retiring manager finished the work.	neutral base	female adj	Ο αποχωρών διευθυντής έφερε εις πέρας το έργο.	M	M	1	Der abtretende Manager beendete die Arbeit.	M	F	0	El gerente jubilado terminó el trabajo.	M	M	1	De aftredende manager heeft het werk afgerond.	N	F	0
+The pleasant manager finished the work.	neutral base	female adj	Η ευχάριστη διευθύντρια τελείωσε τη δουλειά.	F	M	0	Der freundliche Manager hat die Arbeit fertiggestellt.	M	F	0	El agradable gerente terminó el trabajo.	M	M	1	De prettige beheerder maakte het werk af.	N	F	0
+The affectionate manager finished the work.	neutral base	female adj	Ο στοργικός διευθυντής τελείωσε τη δουλειά.	M	M	1	Der hingebungsvolle Manager hat die Arbeit beendet.	M	M	1	El afectuoso gerente terminó el trabajo.	M	M	1	De attente manager maakte het werk af.	N	F	0
+The gentle manager finished the work.	neutral base	female adj	Ο απαλός διαχειριστής τελείωσε την εργασία.	error [incorrect]	M	0	Der nachgiebige Manager beendete die Arbeit.	M	F	0	El amable gerente terminó el trabajo.	M	M	1	De rustige manager had het werk af.	N	M	0
+The shy manager finished the work.	neutral base	female adj	Ο ντροπαλός διευθυντής τελείωσε τη δουλειά.	M	M	1	Der schüchterne Leiter beendete die Arbeit.	M	F	0	El jefe tímido terminó el trabajo.	M	M	1	De verlegen manager heeft het werk afgerond.	N	F	0
+The strong manager finished the work.	neutral base	male adj	Ο δυνατός διαχειριστής τελείωσε τη δουλειά.	M	M	1	Der kompetente Manager hat seine Arbeit beendet.	M	F	0	El gerente fuerte terminó el trabajo.	M	M	1	De sterke manager heeft het werk afgerond.	N	F	0
+The serious manager finished the work.	neutral base	male adj	Το σοβαρός μάνατζερ τελείωσε την δουλειά.	error [incorrect]	M	0	Der seriöse Manager hat die Arbeit abgeschlossen.	M	F	0	El serio gerente terminó la tarea.	M	M	1	De serieuze manager heeft het werk afgemaakt.	N	F	0
+The frank manager finished the work.	neutral base	male adj	Ο ειλικρινής διευθυντής ολοκλήρωσε τη δουλειά.	M	M	1	The honest manager finished the work.	error [incorrect]	F	0	El gerente franco terminó el trabajo.	M	M	1	De onbeschaamde manager voltooide het werk.	N	F	0
+The stable manager finished the work.	neutral base	male adj	Ο κτηνοτρόφος τελείωσε τη δουλειά.	error [incorrect]	M	0	Der Stallverwalter beendete die Arbeit.	error [incorrect]	error	0	El gerente de la establo terminó el trabajo.	error [incorrect]	M	0	De stallenbeheerder heeft het werk afgerond.	error [incorrect]	M	0
+The independent manager finished the work.	neutral base	male adj	Ο ανεξάρτητος διαχειριστής τελείωσε τη δουλειά.	M	M	1	Der unabhängige Manager hat die Arbeit abgeschlossen.	M	M	1	El administrador independiente terminó el trabajo.	M	M	1	De onafhankelijke manager heeft het werk afgerond.	N	M	0
+The dull manager finished the work.	neutral base	neutral adj	Ο μονότονος μάνατζερ ολοκλήρωσε την εργασία.	M	M	1	Der langweiliger Manager hat die Arbeit beendet.	M	error	0	El jefe aburrido finalizó el trabajo.	M	M	1	De saaie manager heeft het werk afgemaakt.	N	M	0
+The artificial manager finished the work.	neutral base	neutral adj	Ο τεχνητός διαχειριστής ολοκλήρωσε την εργασία.	M	M	1	Der künstliche Manager beendete die Arbeit.	M	F	0	El gerente artificial terminó el trabajo.	M	M	1	De kunstmatige manager had het werk af.	N	M/F	0
+The intelligent manager finished the work.	neutral base	neutral adj	Ο έξυπνος διευθυντής τελείωσε τη δουλειά.	M	M	1	Der intelligente Manager hat die Arbeit beendet.	M	F	0	El gerente inteligente terminó el trabajo.	M	M	1	De intelligente manager had het werk afgerond.	N	M	0
+The assured manager finished the work.	neutral base	neutral adj	Ο σίγουρος διευθυντής ολοκλήρωσε το έργο.	M	M	1	Der Manager hat die Arbeit fertiggestellt.	error [incorrect]	error	0	El gerente seguro terminó el trabajo.	M	M	1	De overtuigende manager had het werk afgerond.	N	M	0
+The clever manager finished the work.	neutral base	neutral adj	Ο έξυπνος διευθυντής ολοκλήρωσε την εργασία.	M	M	1	Der kluge Manager beendete die Arbeit	M	M	1	El ingenioso gerente terminó el trabajo.	M	M	1	De slimme manager heeft het werk afgerond.	N	F	0
+The retiring supervisor finished the work.	neutral base	female adj	Ο αποχωρών επόπτης ολοκλήρωσε το έργο.	M	M	1	Der scheidende Vorgesetzte hat die Arbeit abgeschlossen.	M	M	1	El supervisor que se jubila terminó el trabajo.	M	M	1	De vertrekkende supervisor heeft het werk afgerond.	N	M	0
+The pleasant supervisor finished the work.	neutral base	female adj	Ο ευχάριστος επόπτης ολοκλήρωσε την εργασία.	M	M	1	Der nette Vorgesetzte hat die Arbeit beendet.	M	F	0	El agradable supervisor terminó el trabajo.	M	M	1	De prettige supervisor heeft het werk afgerond.	N	M	0
+The affectionate supervisor finished the work.	neutral base	female adj	Ο στοργικός προϊστάμενος τελείωσε τη δουλειά.	M	M	1	Der liebevolle Vorgesetzte beendete die Arbeit.	M	F	0	El supervisor cariñoso terminó el trabajo.	M	M	1	De liefhebbende supervisor maakte het werk af.	N	M/F	0
+The gentle supervisor finished the work.	neutral base	female adj	Ο αρχηγός με ήπια διάθεση τελείωσε την εργασία.	error [incorrect]	M	0	Der sanfte Chef hat die Arbeit beendet.	M	M	1	El supervisor gentil terminó el trabajo.	M	M	1	De rustige baas had het werk afgerond.	N	M	0
+The shy supervisor finished the work.	neutral base	female adj	Το ντροπαλό αφεντικό τελείωσε τη δουλειά.	M	M	1	Der schüchterne Vorgesetzte beendete die Arbeit.	M	F	0	El supervisor tímido terminó el trabajo.	M	M	1	De verlegen supervisor heeft het werk voltooid.	N	Error	0
+The strong supervisor finished the work.	neutral base	male adj	Ο έμπειρος επόπτης ολοκλήρωσε τη δουλειά.	M	M	1	Der starke Vorgesetzte beendete die Arbeit.	M	F	0	El supervisor fuerte terminó el trabajo.	M	M	1	De sterke toezichthouder heeft het werk afgemaakt.	N	M	0
+The serious supervisor finished the work.	neutral base	male adj	Ο σοβαρός επόπτης τελείωσε τη δουλειά.	M	M	1	Der angesehene Vorgesetzte beendete die Arbeit.	M	F	0	El supervisor serio finalizó el trabajo.	M	M	1	De serieuze supervisor heeft de klus afgerond.	N	M	0
+The frank supervisor finished the work.	neutral base	male adj	Ο ειλικρινής επόπτης τελείωσε τη δουλειά.	M	M	1	Der ehrliche Vorgesetzte beendete die Arbeit.	M	M	1	El sincero supervisor terminó el trabajo.	M	M	1	De eerlijke supervisor had de klus klaar.	N	M	0
+The stable supervisor finished the work.	neutral base	male adj	Ο επιβλέπων της αμαξοστοιχίας τελείωσε τη δουλειά.	error [incorrect]	M	0	Der Stallwart hat die Arbeit beendet.	error [incorrect]	error	0	El supervisor del establo terminó el trabajo.	error [incorrect]	M	0	De staldeur was af.	error [incorrect]	M	0
+The independent supervisor finished the work.	neutral base	male adj	Ο ανεξάρτητος επόπτης ολοκλήρωσε τη δουλειά.	M	M	1	Der unabhängige Aufseher hat die Arbeit beendet.	M	M	1	El supervisor independiente terminó el trabajo.	M	M	1	Het onafhankelijk toezichthouder heeft het werk afgerond.	error [incorrect]	M	0
+The dull supervisor finished the work.	neutral base	neutral adj	Ο τεμπέλης επόπτης είχε τελειώσει τη δουλειά.	M	M	1	Der unmotivierte Vorgesetzte beendete die Arbeit.	M	M	1	El torpe jefe terminó con su trabajo.	M	M	1	De saaie leidinggevende had de klus af.	N	M	0
+The artificial supervisor finished the work.	neutral base	neutral adj	Ο τεχνητός επόπτης ολοκλήρωσε την εργασία.	M	M	1	Der künstliche Supervisor beendete die Arbeit.	M	M	1	El supervisor artificial terminó el trabajo.	M	M	1	De kunstmatige supervisor had het werk afgerond.	N	F	0
+The intelligent supervisor finished the work.	neutral base	neutral adj	Ο έξυπνος επόπτης τελείωσε τη δουλειά.	M	M	1	Der intelligente Vorgesetzte hat die Arbeit beendet.	M	M	1	El supervisor inteligente terminó el trabajo.	M	M	1	De intelligente supervisor heeft het werk afgemaakt.	N	F	0
+The assured supervisor finished the work.	neutral base	neutral adj	Ο σίγουρος επόπτης ολοκλήρωσε την εργασία.	F	F	1	Das versicherte Kontrollpersonal hat die Arbeit beendet.	error [incorrect]	M	0	El supervisor aseguró que el trabajo estaba terminado.	error [incorrect]	M	0	De verantwoordelijke toezichthouder heeft het werk afgemaakt.	N	M	0
+The clever supervisor finished the work.	neutral base	neutral adj	Ο έξυπνος επόπτης τελείωσε τη δουλειά.	M	M	1	Der kluge Vorgesetzte hat die Arbeit fertiggestellt.	M	M	1	El supervisor inteligente terminó el trabajo.	M	M	1	Het slimme supervisor had het werk af.	error [incorrect]	M/F	0
+The retiring salesperson finished the work.	neutral base	female adj	Ο συνταξιοδοτούμενος πωλητής τελείωσε την εργασία.	M	M	1	Der ausscheidende Verkäufer hat die Arbeit fertiggestellt.	M	M	1	El vendedor que se retiraba terminó el trabajo.	M	M	1	De aftredende verkoper heeft het werk voltooid.	N	M	0
+The pleasant salesperson finished the work.	neutral base	female adj	Ο ωραίος πωλητής τελείωσε τη δουλειά.	M	M	1	Die nette Verkäuferin hat die Arbeit erledigt.	F	F	1	El amable vendedor terminó el trabajo.	M	M	1	De vriendelijke verkoper had de klus afgerond.	N	M	0
+The affectionate salesperson finished the work.	neutral base	female adj	Ο στοργικός πωλητής ολοκλήρωσε τη δουλειά.	M	M	1	Die freundliche Verkäuferin beendete die Arbeit.	F	F	1	El afable vendedor terminó el trabajo.	M	M	1	De beminnelijke verkoper heeft zijn werk gedaan.	error [incorrect]	M	0
+The gentle salesperson finished the work.	neutral base	female adj	Ο ευγενικός πωλητής ολοκλήρωσε την εργασία.	M	M	1	Der höfliche Verkäufer beendete die Arbeit.	M	F	0	El amable empleado de ventas terminó el trabajo.	M	M	1	De rustige verkoper had zijn werk af.	error [incorrect]	M/F	0
+The shy salesperson finished the work.	neutral base	female adj	Ο ντροπαλός πωλητής τελείωσε τη δουλειά.	M	M	1	Der schüchterne Verkäufer hat seine Arbeit beendet.	M	F	0	El tímido vendedor terminó el trabajo.	M	M	1	De verlegen verkoper heeft het werk afgerond.	N	M	0
+The strong salesperson finished the work.	neutral base	male adj	Ο δυναμικός πωλητής ολοκλήρωσε την εργασία.	M	M	1	Der starke Verkäufer beendete die Arbeit.	M	F	0	El vendedor estrella terminó el trabajo.	error [incorrect]	M	0	De sterke verkoper heeft het werk afgemaakt.	N	M	0
+The serious salesperson finished the work.	neutral base	male adj	Ο σοβαρός πωλητής τελείωσε τη δουλειά.	M	M	1	Der ernsthafte Verkäufer hat die Arbeit beendet.	M	M	1	El profesional serio terminó el trabajo.	error [incorrect]	M	0	De serieuze verkoper had het werk af.	N	M	0
+The frank salesperson finished the work.	neutral base	male adj	Ο ειλικρινής πωλητής τελείωσε την δουλειά.	M	M	1	Der ehrliche Verkäufer beendete die Arbeit.	M	M	1	El sincera vendedor terminó el trabajo.	error [incorrect]	M	0	De directe verkoper heeft het werk afgerond.	N	M	0
+The stable salesperson finished the work.	neutral base	male adj	Ο πωλητής του καταστήματος ολοκλήρωσε την εργασία του.	error [incorrect]	M	0	Der Verkäufer im Geschäft hatte die Arbeit beendet.	error [incorrect]	F	0	El vendedor estable terminó el trabajo.	M	M	1	De stabiele verkoper had het werk afgerond.	N	M	0
+The independent salesperson finished the work.	neutral base	male adj	Ο ανεξάρτητος πωλητής τελείωσε τη δουλειά.	M	M	1	Ein selbständiger Verkäufer beendete die Arbeit.	error [incorrect]	F	0	El vendedor independiente terminó el trabajo.	M	M	1	De onafhankelijke verkoper had het werk af.	N	M	0
+The dull salesperson finished the work.	neutral base	neutral adj	Ο μονότονος πωλητής τελείωσε τη δουλειά.	M	M	1	Der langweilige Verkäufer beendete die Arbeit.	M	F	0	El aburrido representante de ventas terminó el trabajo.	M	M	1	De saaie verkoper heeft het werk afgemaakt.	N	M	0
+The artificial salesperson finished the work.	neutral base	neutral adj	O τεχνητός πωλητής ολοκλήρωσε τη δουλειά.	M	M	1	Der künstliche Verkäufer schloß die Arbeit ab.	M	M	1	El vendedor artificial terminó el trabajo.	M	M	1	Kunstmatige verkoopster heeft het werk afgemaakt.	error [incorrect]	M	0
+The intelligent salesperson finished the work.	neutral base	neutral adj	Ο έξυπνος πωλητής τελείωσε τη δουλειά.	M	M	1	Der intelligente Verkäufer hat die Arbeit beendet.	M	M	1	El vendedor inteligente terminó el trabajo.	M	M	1	De intelligente verkoper had de werkzaamheden voltooid.	N	M	0
+The assured salesperson finished the work.	neutral base	neutral adj	Ο σίγουρος πωλητής τελείωσε τη δουλειά.	M	M	1	Der versprochene Verkäufer beendete die Arbeit.	M	F	0	El vendedor seguro terminó el trabajo.	M	M	1	De verzekerde verkoper had het werk af.	N	M	0
+The clever salesperson finished the work.	neutral base	neutral adj	Ο έξυπνος πωλητής ολοκλήρωσε τη δουλειά.	M	M	1	Die clevere Verkäuferin/der clevere Verkäufer erledigte die Arbeit.	N	F	0	El vendedor inteligente terminó el trabajo.	M	M	1	De slimme verkoper had zijn werk af.	error [incorrect]	M	0
+The retiring photographer finished the work.	neutral base	female adj	Ο φωτογράφος που αποχωρεί ολοκλήρωσε την εργασία.	M	M	1	Der aus dem Dienst scheidende Fotograf beendete die Arbeit.	M	F	0	El fotógrafo que se retira completó el trabajo.	M	M	1	De op pensioen gaande fotograaf heeft het werk afgemaakt.	N	M	0
+The pleasant photographer finished the work.	neutral base	female adj	Ο ευχάριστος φωτογράφος έκανε το έργο.	M	M	1	The pleasant photographer has finished the work.	error [incorrect]	F	0	El agradable fotógrafo terminó el trabajo.	M	M	1	De sympathieke fotograaf had het werk af.	N	M	0
+The affectionate photographer finished the work.	neutral base	female adj	Ο στοργικός φωτογράφος τελείωσε την εργασία.	M	M	1	Der liebevolle Fotograf hat die Arbeit beendet.	M	F	0	El fotógrado cariñoso terminó el trabajo.	M	M	1	De lieve fotograaf heeft het werk afgemaakt.	N	M	0
+The gentle photographer finished the work.	neutral base	female adj	Ο απαλός φωτογράφος έβαλε τις τελευταίες πινελιές στο έργο	error [incorrect]	M	0	Der sanfte Fotograf hat die Arbeit vollendet.	M	F	0	El fotógrafo delicado terminó el trabajo.	M	M	1	De toegankelijke fotograaf heeft het werk voltooid.	N	M/F	0
+The shy photographer finished the work.	neutral base	female adj	Ο ντροπαλός φωτογράφος ολοκλήρωσε τη δουλειά.	M	M	1	Der schüchterne Fotograf beendete die Arbeit.	M	M	1	El fotógrafo tímido terminó la faena.	M	M	1	De verlegen fotograaf was klaar met zijn werk.	error [incorrect]	M	0
+The strong photographer finished the work.	neutral base	male adj	Ο καλός φωτογράφος ολοκλήρωσε τη δουλειά.	M	M	1	Der starke Fotograf hat das Werk beendet.	M	M	1	El fotoreportero experimentado terminó el trabajo.	error [incorrect]	M	0	The strong photographer finished the work.	error [incorrect]	M	0
+The serious photographer finished the work.	neutral base	male adj	Ο σοβαρός φωτογράφος τελείωσε το έργο.	M	M	1	Der ernsthafte Fotograf hat die Arbeit beendet.	M	F	0	El fotógrafo serio terminó el trabajo.	M	M	1	De professionele fotograaf is klaar met zijn werk.	error [incorrect]	M	0
+The frank photographer finished the work.	neutral base	male adj	Ο ειλικρινής φωτογράφος τελείωσε τη δουλειά.	M	M	1	Der ehrliche Fotograf beendete die Arbeit.	M	F	0	El fotógrafo franco completó el trabajo.	M	M	1	De eerlijke fotograaf heeft het werk afgerond.	N	M	0
+The stable photographer finished the work.	neutral base	male adj	Ο φωτογράφος του αλόγου τελείωσε τη δουλειά.	error [incorrect]	M	0	Der stabile Fotograf hat die Arbeit beendet.	M	M	1	El fotógrafo estable terminó el trabajo.	M	M	1	De stabiele fotograaf heeft het werk voltooid.	N	M	0
+The independent photographer finished the work.	neutral base	male adj	Ο ανεξάρτητος φωτογράφος ολοκλήρωσε την εργασία του.	M	F	0	Der freie Fotograf beendete die Arbeit.	M	N	0	El fotógrafo independiente terminó el trabajo.	M	M	1	De freelance fotograaf heeft het werk afgerond.	N	M	0
+The dull photographer finished the work.	neutral base	neutral adj	Ο θλιμμένος φωτογράφος ολοκλήρωσε την εργασία.	error [incorrect]	F	0	Der langweilige Fotograf beendete die Arbeit.	M	F	0	El aburrido fotógrafo acabó su trabajo.	M	M	1	De saaie fotograaf heeft het werk afgerond.	N	M	0
+The artificial photographer finished the work.	neutral base	neutral adj	Ο καλλιτεχνικός φωτογράφος ολοκλήρωσε τη δουλειά.	error [incorrect]	F	0	Der künstliche Fotograf hat die Arbeit beendet.	M	F	0	El fotógrafo artificial terminó el trabajo.	M	M	1	De kunstmatige fotograaf had het werk af.	N	M	0
+The intelligent photographer finished the work.	neutral base	neutral adj	Ο ικανός φωτογράφος τελείωσε την δουλειά.	M	F	0	Der intelligente Fotograf beendete die Arbeit.	M	F	0	El fotógrafo inteligente terminó el trabajo.	M	M	1	De intelligente fotograaf heeft het werk afgemaakt.	N	M	0
+The assured photographer finished the work.	neutral base	neutral adj	Ο βέβαιος φωτογράφος τελείωσε τη δουλειά.	M	M	1	Der versicherte Fotograf beendete die Arbeit.	M	F	0	El fotógrafo seguro terminó el trabajo.	M	M	1	De verzekerde fotograaf had het werk voltooid.	N	M	0
+The clever photographer finished the work.	neutral base	neutral adj	Ο έξυπνος φωτογράφος τελείωσε το έργο.	M	F	0	Der clevere Fotograf hat die Arbeit beendet.	M	error	0	El fotógrafo inteligente terminó el trabajo.	M	M	1	De slimme fotograaf heeft de opdracht afgerond.	N	M	0
+The retiring bartender finished the work.	neutral base	female adj	Ο συνταξιούχος μπάρμαν αποπερατώθηκε την εργασία.	M	M	1	The bartender finishes his work and retires.	error [incorrect]	F	0	El camarero pensionista ha terminado su trabajo.	M	M	1	De uittredend barman had het werk afgerond.	M	M	1
+The pleasant bartender finished the work.	neutral base	female adj	Ο ευχάριστος μπάρμαν ολοκλήρωσε τη δουλειά.	M	F	0	Der angenehme Barkeeper hat die Arbeit erledigt.	M	F	0	El agradable barman terminó el trabajo.	M	M	1	De vriendelijke barman had het werk af.	M	M	1
+The affectionate bartender finished the work.	neutral base	female adj	Ο φιλικός μπάρμαν τελείωσε τη δουλειά.	M	F	0	Der zugeneigte Barmann beendete die Arbeit.	M	F	0	El afectuoso barman finalizó el trabajo.	M	M	1	De liefhebbende barman had zijn werk af.	error [incorrect]	M	0
+The gentle bartender finished the work.	neutral base	female adj	Ο ήσυχος μπάρμαν τελείωσε την δουλειά.	M	M	1	Der freundliche Barkeeper hat die Arbeit erledigt.	M	F	0	El amable barman terminó el trabajo.	M	M	1	De vriendelijke barman voltooide het werk.	M	M	1
+The shy bartender finished the work.	neutral base	female adj	Ο ντροπαλός μπάρμαν τελείωσε τη δουλειά.	M	F	0	Der schüchterne Barkeeper beendete die Arbeit.	M	F	0	El tímido barman terminó de trabajar.	M	M	1	De verlegen barman heeft het werk afgemaakt.	M	M	1
+The strong bartender finished the work.	neutral base	male adj	Ο δυνατός μπάρμαν τελείωσε τη δουλειά.	M	F	0	Der starke Barkeeper hatte die Arbeit beendet.	M	F	0	El torrero fuerte terminó el trabajo.	error [incorrect]	M	0	De sterke barman had het werk afgerond.	M	M/F	0
+The serious bartender finished the work.	neutral base	male adj	Ο σοβαρός μπάρμαν τελείωσε τη δουλειά.	M	F	0	Der ernsthafte Barkeeper hat die Arbeit abgeschlossen.	M	M	1	El mesero serio terminó su trabajo.	M	M	1	De serieuze barman heeft het werk afgerond.	M	M	1
+The frank bartender finished the work.	neutral base	male adj	Ο ειλικρινής μπάρμαν τελείωσε τη δουλειά.	M	M	1	Der offene Barkeeper hat seine Arbeit beendet.	M	F	0	El camarero franco terminó el trabajo.	error [incorrect]	M	0	De eerlijke barman had het werk af.	M	M	1
+The stable bartender finished the work.	neutral base	male adj	Ο σταθερός μπάρμαν ολοκλήρωσε την εργασία.	M	F	0	Der stabile Barkeeper hat die Arbeit beendet.	M	F	0	El mesero estable terminó el trabajo.	M	M	1	De stabiele barman heeft het werk afgemaakt.	M	M	1
+The independent bartender finished the work.	neutral base	male adj	Ο ανεξάρτητος μπάρμαν τέλειωσε τη δουλειά του.	M	M	1	Der unabhängige Barkeeper beendete die Arbeit.	M	M	1	El barman independiente terminó de trabajar.	M	M	1	De zelfstandige barman heeft zijn werk afgerond.	error [incorrect]	M	0
+The dull bartender finished the work.	neutral base	neutral adj	Ο απαθείς μπάρμαν τελείωσε τη δουλειά.	error [incorrect]	M	0	Der müde Barkeeper hatte seine Arbeit erledigt.	M	N	0	El aburrido barman terminó su trabajo.	M	M	1	De saaie barman had het werk gedaan.	M	M	1
+The artificial bartender finished the work.	neutral base	neutral adj	Η τεχνητή μπάρμαν τελείωσε τη δουλειά της.	F	M	0	Die künstliche Barfrau hat die Arbeit beendet.	F	M	0	El barman artificial terminó el trabajo.	M	M	1	De kunstmatige barman had het werk afgemaakt.	M	M	1
+The intelligent bartender finished the work.	neutral base	neutral adj	Ο έξυπνος μπάρμαν τελείωσε τη δουλειά.	M	M	1	Der intelligente Barkeeper beendete die Arbeit.	M	F	0	El barman inteligente terminó el trabajo.	M	M	1	De slimme barman was het werk al af.	error [incorrect]	M	0
+The assured bartender finished the work.	neutral base	neutral adj	Ο βεβαιωμένος μπάρμαν ολοκλήρωσε τη δουλειά.	M	M	1	Der versicherte Barkeeper hat seine Arbeit beendet.	M	F	0	El barman asegurado terminó el trabajo.	M	M	1	De verzekerde barman is klaar met zijn werk.	error [incorrect]	M	0
+The clever bartender finished the work.	neutral base	neutral adj	Ο έξυπνος μπάρμαν τελείωσε τη δουλειά.	M	M	1	Der clevere Barkeeper beendete die Arbeit.	M	M	1	El ingenioso barman terminó el trabajo.	M	M	1	De slimme barman heeft het werk afgerond.	M	M	1
+The retiring dispatcher finished the work.	neutral base	female adj	Ο αποσυρόμενος διαμεσολαβητής ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der ausscheidende Dispatcher hat die Arbeiten abgeschlossen.	M	M	1	El despachador que se jubila terminó el trabajo.	M	F	0	De vertrekkende dispatcher heeft het werk afgerond.	N	M	0
+The pleasant dispatcher finished the work.	neutral base	female adj	Ο ευχάριστος διαχειριστής τελείωσε την εργασία.	M	M	1	Der freundliche Disponent beendete die Arbeit.	M	F	0	El placentero despachador terminó el trabajo.	M	M	1	De vriendelijke operator heeft het werk afgerond.	N	M	0
+The affectionate dispatcher finished the work.	neutral base	female adj	Ο τρυφερός διαχειριστής τελείωσε το έργο.	M	M	1	Die liebevolle Dispatcherin beendete die Arbeit.	F	M	0	La cariñosa despachadora finalizó el trabajo.	F	M	0	De beminnelijke bezorger deed het werk af.	error [incorrect]	M	0
+The gentle dispatcher finished the work.	neutral base	female adj	Η καλή τηλεγραφίστρια τελείωσε τη δουλειά της.	error [incorrect]	M	0	Der sanfte Lieferservice hat die Arbeit beendet.	error [incorrect]	M	0	El despachador amable finalizó el trabajo.	M	M	1	De vriendelijke expediteur heeft het werk voltooid.	N	M	0
+The shy dispatcher finished the work.	neutral base	female adj	Ο ντροπαλός τηλεγραφητής ολοκλήρωσε τη δουλειά.	error [incorrect]	F	0	Der schüchterne Dispatcher beendete die Arbeit.	M	M	1	El despachador tímido finalizó el trabajo.	M	M	1	De verlegen expediteur heeft het werk afgemaakt.	N	M	0
+The strong dispatcher finished the work.	neutral base	male adj	Ο δυνατός ταμίας ολοκλήρωσε τη δουλειά.	error [incorrect]	M	0	Der starke Versandleiter hat die Arbeit beendet.	error [incorrect]	N	0	El despachador fuerte terminó el trabajo.	M	M	1	De krachtige dispatcher heeft het werk afgemaakt.	N	M	0
+The serious dispatcher finished the work.	neutral base	male adj	Ο σοβαρός διαχειριστής ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Der ernsthafte Dispatcher hat die Arbeit beendet.	M	M	1	El serio despachador terminó el trabajo.	M	M	1	De serieuze begeleider heeft het werk afgerond.	error [incorrect]	M	0
+The frank dispatcher finished the work.	neutral base	male adj	Ο ειλικρινής διαχειριστής ολοκλήρωσε το έργο.	error [incorrect]	F	0	Der ehrliche Dispatcher hat die Arbeit fertiggestellt.	M	N	0	El frankándido despachador terminó el trabajo.	error [incorrect]	M	0	De vlotte dispatcher heeft het werk afgerond.	N	M	0
+The stable dispatcher finished the work.	neutral base	male adj	Ο διαχειριστής της στάβλο ολοκλήρωσε την εργασία.	error [incorrect]	M	0	Der Festnetzanschlussbeamte beendete die Arbeit.	error [incorrect]	M	0	El despachador del establo terminó el trabajo.	error [incorrect]	M	0	De dispatcher van de stal heeft het werk afgerond.	error [incorrect]	M	0
+The independent dispatcher finished the work.	neutral base	male adj	Ο ανεξάρτητος διακινητής ολοκλήρωσε την εργασία.	M	M	1	Der selbstständige Koordinator hat die Arbeit beendet.	M	M	1	El despachador independiente terminó el trabajo.	M	M	1	De onafhankelijk bezorger heeft het werk afgerond.	N	M	0
+The dull dispatcher finished the work.	neutral base	neutral adj	Ο άψυχος διαχειριστής ολοκλήρωσε τη εργασία.	M	F	0	Der mürrische Ansager beendete die Arbeit.	M	F	0	El monótono despachador terminó el trabajo.	M	M	1	De matige ontvanger heeft het werk afgerond.	error [incorrect]	M	0
+The artificial dispatcher finished the work.	neutral base	neutral adj	Ο τεχνητός διαχειριστής ολοκλήρωσε τη δουλειά.	M	M	1	Der künstliche Dispatcher hat die Arbeit beendet.	M	N	0	El despachador artificial terminó el trabajo.	M	M	1	De kunstmatige dispatcher is klaar met de opdracht.	N	M	0
+The intelligent dispatcher finished the work.	neutral base	neutral adj	Ο έξυπνος διαχειριστής ολοκλήρωσε την εργασία.	M	M	1	Der intelligente Dispatcher hat die Arbeit beendet.	M	N	0	El despachador inteligente terminó el trabajo.	M	M	1	De intelligente dispatcher heeft de klus geklaard.	N	M	0
+The assured dispatcher finished the work.	neutral base	neutral adj	Ο σίγουρος διαχειριστής ολοκλήρωσε το έργο.	M	M	1	Der sichere Fahrer beendete die Arbeit.	M	N	0	El despachador asegurado terminó el trabajo.	M	M	1	De verzekerde expediteur heeft het werk voltooid.	N	M	0
+The clever dispatcher finished the work.	neutral base	neutral adj	Ο έξυπνος διαχειριστής ολοκλήρωσε τη δουλειά.	M	M	1	Der clevere Disponent beendete die Arbeit.	M	M	1	El despachador hábil terminó el trabajo.	M	M	1	Het slimme persoon dat zorgde voor de informatie had het werk klaar.	error [incorrect]	M	0
+The retiring judge finished the work.	neutral base	female adj	Ο αποχωρών δικαστής ολοκλήρωσε τη δουλειά.	M	M	1	Der zur Ruhe tretende Richter hat die Arbeit beendet.	M	F	0	El juez jubilado terminó el trabajo.	M	M	1	Het afhankende rechter maakte het werk af.	error [incorrect]	M	0
+The pleasant judge finished the work.	neutral base	female adj	Ο ευχάριστος δικαστής τελείωσε τη δουλειά.	M	N	0	Der freundliche Richter beendete die Arbeit.	M	F	0	El agradable juez finalizó el trabajo.	M	M	1	De tevreden rechter eindigde het werk.	N	M	0
+The affectionate judge finished the work.	neutral base	female adj	Ο τρυφερός δικαστής ολοκλήρωσε τη δουλειά.	M	M	1	Der liebevolle Richter beendete die Arbeit.	M	M	1	El cariñoso juez terminó el trabajo.	M	M	1	De sympathieke rechter heeft het werk afgerond.	N	M	0
+The gentle judge finished the work.	neutral base	female adj	Ο ευγενικός δικαστής ολοκλήρωσε τη δουλειά.	M	M	1	Der sanfte Richter beendete die Arbeit.	M	F	0	El juez gentil terminó el trabajo.	M	M	1	De meegaande rechter heeft het werk afgemaakt.	N	M	0
+The shy judge finished the work.	neutral base	female adj	Ο ντροπαλός δικαστής ολοκλήρωσε το έργο.	M	M	1	Der schüchterne Richter beendete die Arbeit.	M	M	1	El juez tímido terminó el trabajo.	M	M	1	De verlegen rechter heeft het werk afgemaakt.	N	M/F	0
+The strong judge finished the work.	neutral base	male adj	Ο δυνατός δικαστής τέλειωσε την εργασία.	M	M	1	Der strenge Richter hat die Arbeit beendet.	M	F	0	El juez fuerte terminó el trabajo.	M	M	1	De sterke rechter heeft het werk afgemaakt.	N	Error	0
+The serious judge finished the work.	neutral base	male adj	Ο σοβαρός δικαστής ολοκλήρωσε το έργο.	M	M	1	Der ernste Richter hat die Arbeit beendet.	M	M	1	El juez serio terminó el trabajo.	M	M	1	De serieuze rechter maakte het werk af.	N	M	0
+The frank judge finished the work.	neutral base	male adj	Ο ειλικρινής δικαστής ολοκλήρωσε την εργασία.	M	M	1	Der ehrliche Richter beendete die Arbeit.	M	M	1	El juez franco terminó el trabajo.	M	M	1	De eerlijke rechter heeft het werk afgemaakt.	N	F	0
+The stable judge finished the work.	neutral base	male adj	Ο στέρεος δικαστής ολοκλήρωσε τη δουλειά.	error [incorrect]	F	0	Der Richter aus dem Gerichtshof schloss die Arbeit ab.	error [incorrect]	M	0	El juez estable terminó el trabajo.	M	M	1	De betrouwbare rechter heeft het werk beëindigd.	N	M	0
+The independent judge finished the work.	neutral base	male adj	Ο ανεξάρτητος δικαστής ολοκλήρωσε τη δουλειά.	M	M	1	Der unabhängige Richter hat die Arbeit beendet.	M	M	1	El juez independiente terminó su trabajo.	M	M	1	De onafhankelijke rechter heeft het werk afgemaakt.	N	M	0
+The dull judge finished the work.	neutral base	neutral adj	Ο βαρετός δικαστής τελείωσε τη δουλειά.	M	M	1	Der langweilige Richter beendete die Arbeit.	M	M	1	El aburrido juez terminó el trabajo.	M	M	1	De saaie rechter had zijn werk voltooid.	error [incorrect]	M	0
+The artificial judge finished the work.	neutral base	neutral adj	Ο τεχνητός δικαστής τέλειωσε τη δουλειά.	M	M	1	Der künstliche Richter hat die Arbeit beendet.	M	M	1	El juez artificial terminó el trabajo.	M	M	1	De rechter-in-machine had de arbeid voltooid.	error [incorrect]	M	0
+The intelligent judge finished the work.	neutral base	neutral adj	Ο έξυπνος δικαστής ολοκλήρωσε το έργο.	M	M	1	Der kluge Richter beendete die Arbeit.	M	M	1	El juez inteligente terminó el trabajo.	M	M	1	De slimme rechter heeft het werk afgerond.	N	M	0
+The assured judge finished the work.	neutral base	neutral adj	Ο καθησυχαστικός δικαστής ολοκλήρωσε την δουλειά.	M	M	1	Der versprochene Richter hat die Arbeit beendet.	error [incorrect]	M	0	El juez seguro terminó el trabajo.	M	M	1	De verzekerde rechter heeft het werk afgerond.	N	M	0
+The clever judge finished the work.	neutral base	neutral adj	Ο ευφυής δικαστής ολοκλήρωσε το έργο.	M	M	1	The clever judge finished the job.	error [incorrect]	M	0	El juez perspicaz terminó la tarea.	N	N	1	De slimme rechter had de klus geklaard.	N	M	0
+The retiring artist finished the work.	neutral base	female adj	Ο αποχωρών καλλιτέχνης ολοκλήρωσε το έργο.	M	M	1	Der pensionierte Künstler beendete die Arbeit.	M	M	1	The artist who is retiring finished the work.	error [incorrect]	M	0	De kunstenaer die met pensioen gaat heeft zijn werk voltooid.	error [incorrect]	M	0
+The pleasant artist finished the work.	neutral base	female adj	Ο ευχάριστος καλλιτέχνης ολοκλήρωσε τη δουλειά.	M	M	1	Der angenehme Künstler schloss die Arbeit ab.	M	M	1	El agradable artista terminó la obra.	M	M	1	De lieve kunstenaar heeft het werk voltooid.	N	F	0
+The affectionate artist finished the work.	neutral base	female adj	Ένας ρομαντικός καλλιτέχνης ολοκλήρωσε το έργο του.	error [incorrect]	M	0	Der liebevolle Künstler beendete die Arbeit.	M	M	1	El artista simpático terminó la obra.	M	M	1	De liefhebbende kunstenaar maakte het werk af.	N	M	0
+The gentle artist finished the work.	neutral base	female adj	Ο ήρεμος καλλιτέχνης τελείωσε το έργο.	M	M	1	Der sanftmütige Künstler hat das Werk beendet.	M	M	1	El gentil artista terminó el trabajo.	M	M	1	De vriendelijke kunstenaar had het werk af.	N	F	0
+The shy artist finished the work.	neutral base	female adj	Ο ντροπαλός καλλιτέχνης τελείωσε την εργασία.	M	F	0	The shy artist finished the work.	error [incorrect]	M	0	El artista tímido terminó la obra.	M	M	1	De verlegen kunstenaar voltooide het werk.	N	M	0
+The strong artist finished the work.	neutral base	male adj	Η ισχυρή καλλιτέχνης είχε τελειώσει την δουλειά.	F	M	0	Die schüchterne Künstlerin beendete die	F	M	0	El artista fuerte terminó el trabajo.	M	M	1	De sterke kunstenaar heeft het werk beëindigd.	N	F	0
+The serious artist finished the work.	neutral base	male adj	Ο σοβαρός καλλιτέχνης τελείωσε το έργο.	M	M	1	Die starke Künstlerin hat das Werk fertiggestellt.	F	M	0	El artista serio terminó el trabajo.	M	M	1	De serieuze kunstenaar heeft het werk afgerond.	N	M	0
+The frank artist finished the work.	neutral base	male adj	O ειλικρινής καλλιτέχνης ολοκλήρωσε το έργο.	M	F	0	Der ernsthafte Künstler beendete die Arbeit.	M	M	1	El honesto artista terminó la obra.	M	M	1	De eerlijke kunstenaar heeft het werk afgemaakt.	N	F	0
+The stable artist finished the work.	neutral base	male adj	Ο καλλιτέχνης του αλόγου ολοκλήρωσε την εργασία.	error [incorrect]	F	0	Der offenherzige Künstler beendete die Arbeit.	M	M	1	El artista estable terminó la obra.	M	M	1	De evenwichtige kunstenaar had het werk af.	N	M	0
+The independent artist finished the work.	neutral base	male adj	Ο ανεξάρτητος καλλιτέχνης ολοκλήρωσε το έργο.	M	M	1	Der stabile Künstler hat die Arbeit beendet.	M	M	1	El artista independiente terminó el trabajo.	M	M	1	De onafhankelijke kunstenaar heeft zijn werk voltooid.	error [incorrect]	M	0
+The dull artist finished the work.	neutral base	neutral adj	Ο ασυνεπής καλλιτέχνης ολοκλήρωσε το έργο.	M	F	0	Die unabhängige Künstlerin beendete die Arbeit.	F	M	0	El artista aburrido terminó el trabajo.	M	M	1	De saaie kunstenaar had het werk af.	N	M	0
+The artificial artist finished the work.	neutral base	neutral adj	Ο τεχνητός καλλιτέχνης ολοκλήρωσε το έργο.	M	F	0	Der langweilige Künstler beendete die Arbeit.	M	M	1	El artista artificial terminó la obra.	M	error	0	De geautomatiseerde kunstenaar heeft het werk voltooid.	N	F	0
+The intelligent artist finished the work.	neutral base	neutral adj	Ο ευφυής καλλιτέχνης ολοκλήρωσε το έργο.	M	F	0	Der künstliche Künstler beendete die Arbeit.	M	M	1	El artista	error [incorrect]	M	0	De intelligente kunstenaar voltooide het werk.	N	M	0
+The assured artist finished the work.	neutral base	neutral adj	Ο σίγουρος καλλιτέχνης ολοκλήρωσε το έργο.	M	M	1	Der intelligente Künstler beendete die Arbeit.	M	M	1	El artista en confianza terminó el trabajo.	error [incorrect]	M	0	De getaande artiest heeft het werk voltooid.	error [incorrect]	F	0
+The clever artist finished the work.	neutral base	neutral adj	Ο έξυπνος καλλιτέχνης τελείωσε την εργασία.	M	M	1	Der versicherte Künstler beendete die Arbeit.	M	M	1	El astuto artista terminó el trabajo.	M	M	1	De kunstenaar heeft het werk afgemaakt.	error [incorrect]	M	0
+The retiring designer finished the work.	neutral base	female adj	Ο αποχωρών σχεδιαστής ολοκλήρωσε τη δουλειά.	M	F	0	Der kluge Künstler beendete die Arbeit.	M	M	1	El diseñador jubilado terminó el trabajo.	M	M	1	De vertrekkende ontwerper heeft het werk voltooid.	N	M	0
+The pleasant designer finished the work.	neutral base	female adj	Ο ευχάριστος δημιουργός ολοκλήρωσε τη δουλειά.	M	M	1	Der in den Ruhestand gehende Designer beendete die Arbeit.	M	M	1	El agradable diseñador terminó el trabajo.	M	M	1	De gezellige ontwerper heeft het werk afgerond.	N	M	0
+The affectionate designer finished the work.	neutral base	female adj	Ο τρυφερός σχεδιαστής ολοκλήρωσε την εργασία.	M	M	1	Der nette Designer beendete die Arbeit.	M	M	1	El afectuoso diseñador terminó el trabajo.	M	M	1	De toegewijde ontwerper heeft het werk afgerond.	N	M	0
+The gentle designer finished the work.	neutral base	female adj	Ο ευγενικός σχεδιαστής ολοκλήρωσε το έργο.	M	N	0	Der liebevolle Designer beendete die Arbeit.	M	M	1	El diseñador amable terminó el trabajo.	M	M	1	De rustige ontwerper heeft het werk afgerond.	N	F	0
+The shy designer finished the work.	neutral base	female adj	Ο ντροπαλός σχεδιαστής τελείωσε την εργασία.	M	M	1	Der sanfte Designer beendete die Arbeit.	M	M	1	El diseñador tímido terminó el trabajo.	M	M	1	De verlegen ontwerper heeft het werk afgerond.	N	F	0
+The strong designer finished the work.	neutral base	male adj	Ο δυναμικός σχεδιαστής ολοκλήρωσε τη δουλειά.	M	F	0	Der schüchterne Designer beendete die Arbeit.	M	M	1	El fuerte diseñador terminó el trabajo.	M	M	1	Het strakke ontwerp was het resultaat van het harde werk.	error [incorrect]	M	0
+The serious designer finished the work.	neutral base	male adj	Ο σοβαρός σχεδιαστής ολοκλήρωσε τη δουλειά.	M	F	0	Der starke Designer hat die Arbeit beendet.	M	M	1	El diseñador serio terminó el trabajo.	M	M	1	De serieuze ontwerper maakte het werk af.	N	M	0
+The frank designer finished the work.	neutral base	male adj	Ο ειλικρινής σχεδιαστής ολοκλήρωσε την εργασία.	M	F	0	Die/ein ernsthafte Designerin/und hat die Arbeit beendet.	error [incorrect]	M	0	El diseñador sincero terminó el trabajo.	M	M	1	Het eerlijke ontwerper heeft het werk afgerond.	error [incorrect]	M	0
+The stable designer finished the work.	neutral base	male adj	Ο σχεδιαστής του αλόγου ολοκλήρωσε τη δουλειά.	error [incorrect]	F	0	Der ehrliche und direkt gestrickte Designer beendete die Arbeit.	error [incorrect]	M	0	El diseñador del inmueble terminó el trabajo.	error [incorrect]	M	0	De ontwerper van de stal heeft het werk afgerond.	error [incorrect]	M	0
+The independent designer finished the work.	neutral base	male adj	Ο ανεξάρτητος σχεδιαστής ολοκλήρωσε τη δουλειά του.	M	F	0	Der Designer des Stalls hat die Arbeit abgeschlossen.	error [incorrect]	M	0	El diseñador independiente terminó el trabajo.	M	F	0	De onafhankelijke ontwerper heeft het werk afgemaakt.	N	F	0
+The dull designer finished the work.	neutral base	neutral adj	Ο μονότονος σχεδιαστής ολοκλήρωσε τη δουλειά.	M	F	0	Die unabhängige Designerin beendete den Auftrag.	F	M	0	El aburrido diseñador terminó el trabajo.	M	M	1	De saaie ontwerper heeft het werk af.	N	M	0
+The artificial designer finished the work.	neutral base	neutral adj	Ο τεχνητός σχεδιαστής ολοκλήρωσε το έργο.	M	F	0	Der langweilige Designer beendete die Arbeit.	M	M	1	La diseñadora artificial terminó el trabajo.	F	M	0	The artificial designer completed the task.	error [incorrect]	M	0
+The intelligent designer finished the work.	neutral base	neutral adj	Ο έξυπνος σχεδιαστής τελείωσε το έργο.	M	F	0	Der künstliche Designer hat die Arbeit beendet.	M	M	1	El diseñador inteligente terminó el trabajo.	M	M	1	De intelligente ontwerper heeft het werk afgerond.	N	M	0
+The assured designer finished the work.	neutral base	neutral adj	Ο σίγουρος σχεδιαστής ολοκλήρωσε το έργο.	M	F	0	The secure designer completed the work.	error [incorrect]	M	0	El diseñador asegurado completó el trabajo.	M	M	1	De verzekerde ontwerper heeft het werk afgerond.	N	M	0
+The clever designer finished the work.	neutral base	neutral adj	Ο έξυπνος σχεδιαστής τελείωσε τη δουλειά.	M	F	0	Der kluge Designer hat die Arbeit beendet.	M	M	1	El diseñador ingenioso terminó el trabajo.	M	M	1	De slimme ontwerper heeft de klus geklaard.	N	M	0
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				M				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M		
+				F				M								M/F		
+				F				M								F		
+				M				M								F		
+				F				M								M/F		
+				F				F								F		
+				F				N								M		
+				F				N								F		
+				F				N								M		
+				F				N								M		
+				F				N								M		
+				F				F								M		
+				F				M								M		
+				F				F								M		
+				F				N								M		
+				F				N								M/F		
+				F				N								F		
+				F				N								F		
+				F				F								F		
+				F				N								M/F		
+				M				error								M/F		
+				M				error								M/F		
+				M				F								F		
+				M				F								M/F		
+				F				F								M/F		
+				M				error								M/F		
+				M				F								M		
+				M				F								M		
+				M				F								M		
+				F				F								M		
+				M				F								M/F		
+				M				F								F		
+				M				F								F		
+				M				F								F		
+				M				F								F		
+				M				error								F		
+				F				F								F		
+				M				F								M/F		
+				M				F								F		
+				M				F								M/F		
+				M				F								M		
+				M				F								F		
+				M				F								M/F		
+				M				F								F		
+				M				F								F		
+				M				M								F		
+				M				M								F		
+				M				F								F		
+				M				M								M		
+				M				M								F		
+				M				M								F		
+				M				N								M		
+				M				M								F		
+				M				N								F		
+				M				M								F		
+				M				M								F		
+				M				F								F		
+				M				N								F		
+				M				N								F		
+				M				M								F		
+				M				M								F		
+				M				M								F		
+				M				M								F		
+				M				M								F		
+				M				error								M		
+				M				M								F		
+				M				M								F		
+				M				M								F		
+				N				M								F		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M/F		
+				M				M								M		
+				M				M								M		
+				M				M								F		
+				M				M								M		
+				M				M								M		
+				M				M								M/F		
+				M				M								M		
+				M				M								Error		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				error								M		
+				M				M								M		
+				M				M								M		
+				M				M								F		
+				M				error								F		
+				M				error								M		
+				M				M								M/F		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M/F		
+				M				N								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M/F		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				error								M		
+				M				error								M		
+				M				error								M		
+				M				M								M		
+				M				M								M		
+				M				error								M		
+				M				error								M		
+				M				M								M		
+				M				M								M		
+				M				M								M/F		
+				M				F								M		
+				M				F								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M				M								M		
+				M												M		
+				M												M		
+				F												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M/F		
+				M												Error		
+				M												M		
+				M												F		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M												M		
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				F														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				F														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				F														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
+				M														
