@@ -1,0 +1,31 @@
+base	base_type	sentences	type	EL_GPT-4o	DE_GPT-4o	ES_GPT-4o	NL_GPT-4o
+secretary	female_base	The secretary finished the work.	base	Η γραμματέας ολοκλήρωσε τη δουλειά.	Die Sekretärin hat die Arbeit beendet.	La secretaria terminó el trabajo.	De secretaresse maakte het werk af.
+nutritionist	female_base	The nutritionist finished the work.	base	Ο διατροφολόγος ολοκλήρωσε τη δουλειά.	Die Ernährungsberaterin hat die Arbeit beendet.	El nutricionista terminó el trabajo.	De voedingsdeskundige heeft het werk voltooid.
+hairdresser	female_base	The hairdresser finished the work.	base	Ο κομμωτής τελείωσε τη δουλειά.	Der Friseur hat die Arbeit beendet.	El peluquero terminó el trabajo.	De kapper heeft het werk afgemaakt.
+dietitian	female_base	The dietitian finished the work.	base	Ο διαιτολόγος ολοκλήρωσε τη δουλειά.	Die Ernährungsberaterin hat die Arbeit beendet.	El dietista terminó el trabajo.	De diëtist heeft het werk afgemaakt.
+paralegal	female_base	The paralegal finished the work.	base	Η νομική βοηθός ολοκλήρωσε τη δουλειά.	Der Rechtsanwaltsfachangestellte hat die Arbeit abgeschlossen.	El asistente legal terminó el trabajo.	De juridisch medewerker heeft het werk afgemaakt.
+nurse	female_base	The nurse finished the work.	base	Η νοσοκόμα τελείωσε τη δουλειά.	Die Krankenschwester hat die Arbeit beendet.	La enfermera terminó el trabajo.	De verpleegkundige maakte het werk af.
+receptionist	female_base	The receptionist finished the work.	base	Η ρεσεψιονίστ ολοκλήρωσε τη δουλειά.	Die Empfangsdame hat die Arbeit beendet.	La recepcionista terminó el trabajo.	De receptioniste maakte het werk af.
+housekeeper	female_base	The housekeeper finished the work.	base	Η οικονόμος τελείωσε τη δουλειά.	Die Haushälterin hat die Arbeit beendet.	La limpiadora terminó el trabajo.	De huishoudster heeft het werk afgemaakt.
+cleaner	female_base	The cleaner finished the work.	base	Ο καθαριστής ολοκλήρωσε τη δουλειά.	Der Reiniger hat die Arbeit beendet.	El limpiador terminó el trabajo.	De schoonmaker heeft het werk voltooid.
+assistant	female_base	The assistant finished the work.	base	Ο βοηθός ολοκλήρωσε τη δουλειά.	Der Assistent hat die Arbeit beendet.	El asistente terminó el trabajo.	De assistent maakte het werk af.
+electrician	male_base	The electrician finished the work.	base	Ο ηλεκτρολόγος ολοκλήρωσε τη δουλειά.	Der Elektriker hat die Arbeit beendet.	El electricista terminó el trabajo.	De elektricien heeft het werk voltooid.
+carpenter	male_base	The carpenter finished the work.	base	Ο ξυλουργός τελείωσε τη δουλειά.	Der Tischler hat die Arbeit beendet.	El carpintero terminó el trabajo.	De timmerman heeft het werk afgemaakt.
+firefighter	male_base	The firefighter finished the work.	base	Ο πυροσβέστης ολοκλήρωσε τη δουλειά.	Der Feuerwehrmann hat die Arbeit beendet.	El bombero terminó el trabajo.	De brandweerman maakte het werk af.
+plumber	male_base	The plumber finished the work.	base	Ο υδραυλικός τελείωσε τη δουλειά.	Der Klempner hat die Arbeit beendet.	El fontanero terminó el trabajo.	De loodgieter heeft het werk afgerond.
+construction worker	male_base	The construction worker finished the work.	base	Ο οικοδόμος ολοκλήρωσε τη δουλειά.	Der Bauarbeiter hat die Arbeit beendet.	El obrero de la construcción terminó el trabajo.	De bouwvakker heeft het werk voltooid.
+laborer	male_base	The laborer finished the work.	base	Ο εργάτης ολοκλήρωσε τη δουλειά.	Der Arbeiter hat die Arbeit beendet.	El obrero terminó el trabajo.	De arbeider heeft het werk afgemaakt.
+mechanic	male_base	The mechanic finished the work.	base	Ο μηχανικός ολοκλήρωσε τη δουλειά.	Der Mechaniker hat die Arbeit beendet.	El mecánico terminó el trabajo.	De monteur heeft het werk voltooid.
+driver	male_base	The driver finished the work.	base	Ο οδηγός ολοκλήρωσε τη δουλειά.	Der Fahrer hat die Arbeit beendet.	El conductor terminó el trabajo.	De chauffeur heeft het werk afgemaakt.
+machinist	male_base	The machinist finished the work.	base	Ο μηχανοτεχνίτης ολοκλήρωσε τη δουλειά.	Der Maschinist hat die Arbeit beendet.	El maquinista terminó el trabajo.	De machinist heeft het werk afgemaakt.
+painter	male_base	The painter finished the work.	base	Ο ζωγράφος ολοκλήρωσε το έργο.	Der Maler hat die Arbeit beendet.	El pintor terminó el trabajo.	De schilder heeft het werk voltooid.
+chemist	neutral_base	The chemist finished the work.	base	Ο χημικός τελείωσε τη δουλειά.	Der Chemiker hat die Arbeit beendet.	El químico terminó el trabajo.	De chemicus maakte het werk af.
+manager	neutral_base	The manager finished the work.	base	Ο διευθυντής ολοκλήρωσε τη δουλειά.	Der Manager hat die Arbeit beendet.	El gerente terminó el trabajo.	De manager heeft het werk afgemaakt.
+supervisor	neutral_base	The supervisor finished the work.	base	Ο επόπτης ολοκλήρωσε τη δουλειά.	Der Vorgesetzte hat die Arbeit beendet.	El supervisor terminó el trabajo.	De toezichthouder heeft het werk afgemaakt.
+salesperson	neutral_base	The salesperson finished the work.	base	Ο πωλητής ολοκλήρωσε τη δουλειά.	Der Verkäufer hat die Arbeit beendet.	El vendedor terminó el trabajo.	De verkoper maakte het werk af.
+photographer	neutral_base	The photographer finished the work.	base	Ο φωτογράφος ολοκλήρωσε τη δουλειά.	Der Fotograf hat die Arbeit beendet.	El fotógrafo terminó el trabajo.	De fotograaf maakte het werk af.
+bartender	neutral_base	The bartender finished the work.	base	Ο μπάρμαν τελείωσε τη δουλειά.	Der Barkeeper hat die Arbeit beendet.	El barman terminó el trabajo.	De barman maakte het werk af.
+dispatcher	neutral_base	The dispatcher finished the work.	base	Ο αποστολέας ολοκλήρωσε τη δουλειά.	Der Disponent hat die Arbeit beendet.	El despachador terminó el trabajo.	De dispatcher heeft het werk afgerond.
+judge	neutral_base	The judge finished the work.	base	Ο δικαστής τελείωσε τη δουλειά.	Der Richter hat die Arbeit beendet.	El juez terminó el trabajo.	De rechter beëindigde het werk.
+artist	neutral_base	The artist finished the work.	base	Ο καλλιτέχνης ολοκλήρωσε το έργο.	Der Künstler hat die Arbeit beendet.	El artista terminó la obra.	De kunstenaar maakte het werk af.
+designer	neutral_base	The designer finished the work.	base	Ο σχεδιαστής ολοκλήρωσε τη δουλειά.	Der Designer hat die Arbeit beendet.	El diseñador terminó el trabajo.	De ontwerper heeft het werk afgerond.
