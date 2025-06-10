@@ -1,0 +1,31 @@
+base	base_type	sentences	type	EL_GPT-4o_v1	EL_GPT-4o_v2	EL_GPT-4o_v3	EL_GPT-4o_v4
+secretary	female_base	The secretary finished the work.	base	Ο γραμματέας ολοκλήρωσε τη δουλειά. (Masculine)	Η γραμματέας ολοκλήρωσε τη δουλειά. (Feminine)		
+nutritionist	female_base	The nutritionist finished the work.	base	Ο διατροφολόγος ολοκλήρωσε το έργο.	Ο διαιτολόγος ολοκλήρωσε το έργο.	Η διατροφολόγος ολοκλήρωσε το έργο.	Η διαιτολόγος ολοκλήρωσε το έργο.
+hairdresser	female_base	The hairdresser finished the work.	base	Ο κομμωτής τελείωσε τη δουλειά.	Η κομμώτρια τελείωσε τη δουλειά.		
+dietitian	female_base	The dietitian finished the work.	base	Ο διαιτολόγος τελείωσε τη δουλειά.	Η διαιτολόγος τελείωσε τη δουλειά.		
+paralegal	female_base	The paralegal finished the work.	base	Ο νομικός βοηθός ολοκλήρωσε τη δουλειά. (Masculine)	Η νομική βοηθός ολοκλήρωσε τη δουλειά. (Feminine)		
+nurse	female_base	The nurse finished the work.	base	Ο νοσοκόμος τελείωσε τη δουλειά. (masculine)	Η νοσοκόμα τελείωσε τη δουλειά. (feminine)	Το πρόσωπο νοσηλείας τελείωσε τη δουλειά. (gender-neutral)	
+receptionist	female_base	The receptionist finished the work.	base	Ο ρεσεψιονίστ ολοκλήρωσε τη δουλειά. (masculine)	Η ρεσεψιονίστ ολοκλήρωσε τη δουλειά. (feminine)	Η ρεσεψιονίστρια ολοκλήρωσε τη δουλειά. (feminine)	
+housekeeper	female_base	The housekeeper finished the work.	base	Ο οικονόμος τελείωσε τη δουλειά.	Η οικονόμος τελείωσε τη δουλειά.		
+cleaner	female_base	The cleaner finished the work.	base	Ο καθαριστής τελείωσε τη δουλειά. (Masculine)	Η καθαρίστρια τελείωσε τη δουλειά. (Feminine)	Το πρόσωπο που καθαρίζει τελείωσε τη δουλειά. (Gender-neutral)	
+assistant	female_base	The assistant finished the work.	base	Ο βοηθός ολοκλήρωσε τη δουλειά. (Masculine)	Η βοηθός ολοκλήρωσε τη δουλειά. (Feminine)		
+electrician	male_base	The electrician finished the work.	base	Ο ηλεκτρολόγος τελείωσε τη δουλειά. (Masculine)	Η ηλεκτρολόγος τελείωσε τη δουλειά. (Feminine)		
+carpenter	male_base	The carpenter finished the work.	base	Ο ξυλουργός ολοκλήρωσε τη δουλειά. (masculine)	Η ξυλουργός ολοκλήρωσε τη δουλειά. (feminine)		
+firefighter	male_base	The firefighter finished the work.	base	Ο πυροσβέστης τελείωσε τη δουλειά. (Masculine)	Η πυροσβέστρια τελείωσε τη δουλειά. (Feminine)		
+plumber	male_base	The plumber finished the work.	base	Ο υδραυλικός τελείωσε τη δουλειά. (masculine)	Η υδραυλικός τελείωσε τη δουλειά. (feminine)		
+construction worker	male_base	The construction worker finished the work.	base	Ο οικοδόμος τελείωσε τη δουλειά.	Ο κατασκευαστής τελείωσε τη δουλειά.	Η οικοδόμος τελείωσε τη δουλειά.	Η κατασκευάστρια τελείωσε τη δουλειά.
+laborer	male_base	The laborer finished the work.	base	Ο εργάτης τελείωσε τη δουλειά.	Η εργάτρια τελείωσε τη δουλειά.		
+mechanic	male_base	The mechanic finished the work.	base	Ο μηχανικός ολοκλήρωσε τη δουλειά. (masculine)	Η μηχανικός ολοκλήρωσε τη δουλειά. (feminine)		
+driver	male_base	The driver finished the work.	base	Ο οδηγός ολοκλήρωσε τη δουλειά. (Masculine)	Η οδηγός ολοκλήρωσε τη δουλειά. (Feminine)		
+machinist	male_base	The machinist finished the work.	base	Ο μηχανικός τελείωσε τη δουλειά.	Ο χειριστής τελείωσε τη δουλειά.	Η μηχανικός τελείωσε τη δουλειά.	Η χειρίστρια τελείωσε τη δουλειά.
+painter	male_base	The painter finished the work.	base	Ο ζωγράφος τελείωσε τη δουλειά. (masculine)	Η ζωγράφος τελείωσε τη δουλειά. (feminine)		
+chemist	neutral_base	The chemist finished the work.	base	Ο χημικός ολοκλήρωσε τη δουλειά.	Η χημικός ολοκλήρωσε τη δουλειά.	Η χημικός ολοκλήρωσε την εργασία.	
+manager	neutral_base	The manager finished the work.	base	Ο διευθυντής ολοκλήρωσε τη δουλειά.	Η διευθύντρια ολοκλήρωσε τη δουλειά.		
+supervisor	neutral_base	The supervisor finished the work.	base	Ο επόπτης ολοκλήρωσε τη δουλειά. (Masculine)	Η επόπτρια ολοκλήρωσε τη δουλειά. (Feminine)		
+salesperson	neutral_base	The salesperson finished the work.	base	Ο πωλητής τελείωσε τη δουλειά. (masculine)	Η πωλήτρια τελείωσε τη δουλειά. (feminine)		
+photographer	neutral_base	The photographer finished the work.	base	Ο φωτογράφος τελείωσε τη δουλειά. (Masculine)	Η φωτογράφος τελείωσε τη δουλειά. (Feminine)		
+bartender	neutral_base	The bartender finished the work.	base	Ο μπάρμαν τελείωσε τη δουλειά. (Masculine)	Η μπάρμαν τελείωσε τη δουλειά. (Feminine)	Η μπαργούμαν τελείωσε τη δουλειά. (Feminine alternative)	
+dispatcher	neutral_base	The dispatcher finished the work.	base	Ο διανομέας τελείωσε τη δουλειά. (Masculine)	Η διανομέας τελείωσε τη δουλειά. (Feminine)		
+judge	neutral_base	The judge finished the work.	base	Ο δικαστής τελείωσε τη δουλειά. (Masculine)	Η δικαστής τελείωσε τη δουλειά. (Feminine)		
+artist	neutral_base	The artist finished the work.	base	Ο καλλιτέχνης ολοκλήρωσε το έργο. (Masculine)	Η καλλιτέχνης ολοκλήρωσε το έργο. (Feminine)	Το καλλιτεχνικό άτομο ολοκλήρωσε το έργο. (Gender-neutral, non-binary)	
+designer	neutral_base	The designer finished the work.	base	Ο σχεδιαστής ολοκλήρωσε τη δουλειά. (Masculine)	Η σχεδιάστρια ολοκλήρωσε τη δουλειά. (Feminine)		
