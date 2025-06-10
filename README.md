@@ -1,2 +1,3 @@
 # GENDEROUS
-GENDEROUS: a Gender-Ambiguous Dataset
+
+We present here GENDEROUS, a dataset of gender-ambiguous sentences containing gender-marked occupations and adjectives, and sentences with the ambiguous or non-binary pronoun ‘their’, as introduced in Hackenbuchner et al. (2025). We cross-linguistically evaluated how machine translation (MT) systems (Google Translate and DeepL) and large language models (LLMs) (GPT-4o and EuroLLM-9B) translate these sentences from English into four grammatical gender languages: Greek, German, Spanish and Dutch. This repository includes the original English dataset, the translation python scripts, the translations into the four respective target languages for each system, and annotations for each set of translations (both human gold labels and GPT-4o annotations).
