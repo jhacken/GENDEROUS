@@ -7,4 +7,4 @@ We present here GENDEROUS, a dataset of gender-ambiguous sentences containing ge
 This study has been partially funded by The Research Foundation – Flanders (FWO), research project 1SH5V24N (from 01.11.2023 until 31.10.2027), and hosted within the Language and Translation Technology Team (LT3) at Ghent University. The computational resources (Stevin Supercomputer Infrastructure) and services partially used in this work were provided by the VSC (Flemish Supercomputer Center), funded by Ghent University, FWO and the Flemish Government – department EWI.
 
 # References
-Hackenbuchner, Janiça; Gkovedarou, Janiça; and Daems, Joke (2025): GENDEROUS: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset. 
+Hackenbuchner, Janiça; Gkovedarou, Eleni; and Daems, Joke (2025): GENDEROUS: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset. 
