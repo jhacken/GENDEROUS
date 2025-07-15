@@ -2,6 +2,8 @@
 
 We present GENDEROUS, a dataset of gender-ambiguous sentences containing gender-marked occupations and adjectives, and sentences with the ambiguous or non-binary pronoun ‘their’, as introduced in Hackenbuchner et al. (2025). We cross-linguistically evaluated how machine translation (MT) systems ([Google Translate](https://translate.google.com) and [DeepL](https://www.deepl.com/en/translator)) and large language models (LLMs) ([GPT-4o](https://chatgpt.com/) (``gpt-4o-2024-11-20``) and [EuroLLM-9B](https://huggingface.co/utter-project/EuroLLM-9B-Instruct)) translate these sentences from English into four grammatical gender languages: Greek, German, Spanish and Dutch. 
 
+We compare the four system's default translation (Prompt 1 for LLMs: ``Can you translate the following sentence into {target_language}: {sentence}``. We further test GPT's capability of providing alternative gender translations (EuroLLM exhibited strong limitations) applying the following Prompt 2: ``Can you translate the following sentences into {target_language} providing all the possible alternatives in terms of gender: {sentence}``.
+
 <p align="center" width="100%">
   <img width="350" height="250" alt="image (1)" src="https://github.com/user-attachments/assets/9037500b-dcbc-4183-9f69-72c2d8573b5d" />
 </p>
