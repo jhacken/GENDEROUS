@@ -46,7 +46,7 @@ huggingface-cli login --token $HF_TOKEN
 
 echo "Starting the Python script..."
 
-prompt_template="prompt1_NL"                                                ## Choose your prompt per language.
+prompt_template="prompt1_NL"                                                ## Choose your prompt per language (prompt1_NL, prompt1_DE, prompt1_EL, prompt1_ES; prompt2_NL, prompt2_DE, prompt2_EL, prompt2_ES)
 
 ## CHOOSE YOUR MODEL                                                        ## Choose your model (GPT or EuroLLM)
 ## GPT-4o
