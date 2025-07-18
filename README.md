@@ -14,17 +14,17 @@ Contains in separate files:
 
 ## Translations
 Contains in separate files:
-- LLM default translations (prompt1) for all raw sentence files above for both EuroLLM and GPT-4o into Greek, German, Spanish and Dutch
-- LLM translations for alternative genders (prompt2) for base sentence file for GPT-4o into Greek, German, Spanish and Dutch
 - MT translations for all raw sentence files above for both DeepL and Google Translate into Greek, German, Spanish and Dutch
+- LLM default translations (prompt1) for all raw sentence files for both EuroLLM and GPT-4o into Greek, German, Spanish and Dutch
+- LLM translations for alternative genders (prompt2) for base sentence file for GPT-4o into Greek, German, Spanish and Dutch
 
 ## Annotations
-Contains each of the above translated files with gender annotations both by human annotators and by GPT-4o as LLM-as-a-Judge
+Contains each of the above translated files with gender annotations both by human annotators (gold labels) and by GPT-4o (LLM-as-a-Judge).
 
 ## Scripts
 Contains:
-- Python scripts to run translations for LLMs, both EuroLLM and GPT-4o: python script (``translate_llms.py``), shell script (``translate_llms.sh``), and utils (``utils_llms.py``)
-- Python scripts to run translations for MTs, both DeepL and Google Translate: python script (``translate_MT.py``) and shell script (``translate_MT.sh``)
+- Scripts to run translations for LLMs, both EuroLLM and GPT-4o: python script (``translate_llms.py``), shell script (``translate_llms.sh``), and utils (``utils_llms.py``)
+- Scripts to run translations for MTs, both DeepL and Google Translate: python script (``translate_MT.py``) and shell script (``translate_MT.sh``)
 
 The scripts contain information in comments about where you need to change which variables, including in shell script:
 - information for computing centre
