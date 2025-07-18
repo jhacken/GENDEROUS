@@ -1,4 +1,4 @@
-base	type	base_sentences
+base	type	source_sentences
 secretary	female_base	The secretary finished the work.
 nutritionist	female_base	The nutritionist finished the work.
 hairdresser	female_base	The hairdresser finished the work.

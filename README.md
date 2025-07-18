@@ -1,6 +1,39 @@
 # GENDEROUS
 
-We present here GENDEROUS, a dataset of gender-ambiguous sentences containing gender-marked occupations and adjectives, and sentences with the ambiguous or non-binary pronoun ‘their’, as introduced in Hackenbuchner et al. (2025). We cross-linguistically evaluated how machine translation (MT) systems ([Google Translate](https://translate.google.com) and [DeepL](https://www.deepl.com/en/translator)) and large language models (LLMs) ([GPT-4o](https://chatgpt.com/) (``gpt-4o-2024-11-20``) and [EuroLLM-9B](https://huggingface.co/utter-project/EuroLLM-9B-Instruct)) translate these sentences from English into four grammatical gender languages: Greek, German, Spanish and Dutch. This repository includes the original English dataset (in ``raw_data``), the translation python scripts, the translations into the four respective target languages for each system (in ``translations``), and annotations for each set of translations (both human gold labels and GPT-4o annotations, in ``annotations``).
+We present GENDEROUS, a dataset of gender-ambiguous sentences containing gender-marked occupations and adjectives, and sentences with the ambiguous or non-binary pronoun ‘their’, as introduced in Hackenbuchner et al. (2025). We cross-linguistically evaluated how machine translation (MT) systems ([Google Translate](https://translate.google.com) and [DeepL](https://www.deepl.com/en/translator)) and large language models (LLMs) ([GPT-4o](https://chatgpt.com/) (``gpt-4o-2024-11-20``) and [EuroLLM-9B](https://huggingface.co/utter-project/EuroLLM-9B-Instruct)) translate these sentences from English into four grammatical gender languages: Greek, German, Spanish and Dutch. 
+
+This repository includes the original English dataset (in ``raw_data``), the translation python scripts (in ``scripts`` both for LLMs and MT), the translations into the four respective target languages for each system (in ``translations``), and annotations for each set of translations (both human gold labels and GPT-4o annotations, in ``annotations``).
+
+## Raw Data
+Contains in separate files:
+- base sentences
+- sentences including adjectives
+- sentences including `their`
+- list of gender-inflected adjectives used to compile dataset
+- list of stereotypical occupations used to compile dataset
+
+## Translations
+Contains in separate files:
+- MT translations for all raw sentence files above for both DeepL and Google Translate into Greek, German, Spanish and Dutch
+- LLM default translations (prompt1) for all raw sentence files for both EuroLLM and GPT-4o into Greek, German, Spanish and Dutch
+- LLM translations for alternative genders (prompt2) for base sentence file for GPT-4o into Greek, German, Spanish and Dutch
+
+## Annotations
+Contains each of the above translated files with gender annotations both by human annotators (gold labels) and by GPT-4o (LLM-as-a-Judge).
+
+## Scripts
+Contains:
+- Scripts to run translations for LLMs, both EuroLLM and GPT-4o: python script (``translate_llms.py``), shell script (``translate_llms.sh``), and utils (``utils_llms.py``)
+- Scripts to run translations for MTs, both DeepL and Google Translate: python script (``translate_MT.py``) and shell script (``translate_MT.sh``)
+
+The scripts contain information in comments about where you need to change which variables, including in shell script:
+- information for computing centre
+- directory
+- HuggingFace Token or API Keys
+- Choosing the model (either LLM or MT)
+- Choosing the target language or prompt
+- Defining input data (file/directory)
+- in ``.py`` script: check your home directory
 
 
 # Acknowledgements
