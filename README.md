@@ -40,22 +40,4 @@ The scripts contain information in comments about where you need to change which
 This study has been partially funded by The Research Foundation – Flanders (FWO), research project 1SH5V24N (from 01.11.2023 until 31.10.2027), and hosted within the Language and Translation Technology Team (LT3) at Ghent University. The computational resources (Stevin Supercomputer Infrastructure) and services partially used in this work were provided by the VSC (Flemish Supercomputer Center), funded by Ghent University, FWO and the Flemish Government – department EWI.
 
 # Cite
-@inproceedings{hackenbuchner-etal-2025-genderous,
-    title = "{GENDEROUS}: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset",
-    author = "Hackenbuchner, Jani{\c{c}}a  and
-      Daems, Joke  and
-      Gkovedarou, Eleni",
-    editor = "Fale{\'n}ska, Agnieszka  and
-      Basta, Christine  and
-      Costa-juss{\`a}, Marta  and
-      Sta{\'n}czak, Karolina  and
-      Nozza, Debora",
-    booktitle = "Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)",
-    month = aug,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.gebnlp-1.27/",
-    pages = "302--319",
-    ISBN = "979-8-89176-277-0"
-}
+Janiça Hackenbuchner, Joke Daems, and Eleni Gkovedarou. 2025. [GENDEROUS: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset](https://aclanthology.org/2025.gebnlp-1.27/). In Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 302–319, Vienna, Austria. Association for Computational Linguistics.
