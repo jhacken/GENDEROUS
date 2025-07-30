@@ -17,7 +17,7 @@ import random
 
 load_dotenv()
 # define HF_HOME
-os.environ["HF_HOME"] = "SET-YOUR-HOME-DIRECTORY"                                           # SET YOUR HOME DIRECTORY
+os.environ["HF_HOME"] = "SET-YOUR-HOME-DIRECTORY"                           # SET YOUR HOME DIRECTORY
 
 # set fixed random seed to ensure reproducible results
 seed = 42
