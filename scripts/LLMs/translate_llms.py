@@ -13,11 +13,17 @@ from utils_llms import (
     )
 import logging
 import tyro
+import random
 
 load_dotenv()
 # define HF_HOME
 os.environ["HF_HOME"] = "SET-YOUR-HOME-DIRECTORY"                                           # SET YOUR HOME DIRECTORY
 
+# set fixed random seed to ensure reproducible results
+seed = 42
+np.random.seed(seed)
+random.seed(seed)
+torch.manual_seed(seed)
 
 def get_translator(model_name_or_path: str):
     """Instantiate a translator for commercial systems."""
